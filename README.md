@@ -2,6 +2,12 @@
 
 쌓여만 가는 크롬 북마크를 정리하기 위해 만든 레포지토리입니다!
 
+- :us: : 영어 문서
+- :kr: : 한글로 번역된 문서
+- :computer: : PPT 등 슬라이드로 된 문서
+- :hearts: : 인상 깊게 읽었던 문서 (또 읽어야 함)
+- :question: : 읽고도 어려워서 이해 못한 문서 (또 읽어야 함)
+
 
 
 ## 목차
@@ -38,11 +44,10 @@
 2. Docker
 3. Jenkins
 
-#### Editor/IDE/Git
+#### Editor/IDE
 
 1. IntelliJ
 2. VS Code
-3. Git
 
 #### + 취업 준비
 
@@ -64,7 +69,9 @@ ___
 
 **JWT**
 
+- [ ] [[JWT] JSON Web Token 소개 및 구조 - VELOPERT](https://velopert.com/2389)
 - [ ] [안전한 JWT 웹서비스 사용자 인증 구현하기](https://diokun.wordpress.com/2017/04/07/%EC%95%88%EC%A0%84%ED%95%9C-jwt-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
+- [ ] [JWT를 구현하면서 마주치게 되는 고민들](https://swalloow.github.io/implement-jwt)
 
 
 
@@ -74,10 +81,21 @@ ___
 
 - [ ] [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/?fbclid=IwAR1E2O2JoMIo6MPEe82byiMYtbcHIJs2PETlidAaxwugBnWMh_3-vgP88-Y)
 - [ ] [React 렌더링과 성능 알아보기 : TOAST Meetup](https://meetup.toast.com/posts/110?fbclid=IwAR0YTSIGXezOOwkgaixMyuliXi4kZ8jjDr9ORlTvfu0AHSURb7oV_dzOONE)
+- [ ] [React state가 불변이어야 하는 이유](https://medium.com/@ljs0705/react-state%EA%B0%80-%EB%B6%88%EB%B3%80%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-ec2bf09c1021)
+- [ ] [react-tutorial 고급 (불변성 - Immutability 개념)](https://blog.naver.com/PostView.nhn?blogId=backsajang420&logNo=221358585106&categoryNo=85&parentCategoryNo=0)
 
-**상태 관리**
+**Redux와 Mobx**
 
 - [ ] [React에서 Mobx 경험기 (Redux와 비교기) - 우아한형제들 기술 블로그](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html?fbclid=IwAR3MH72QDYdbLSaHWtQ_fuz4x_ExhXU_jIOY9AUXSCmQTKaxpmT77uU9h8U)
+- [ ] [상태 관리 라이브러리의 미학: Redux 또는 MobX 를 통한 상태 관리](https://velog.io/@velopert/redux-or-mobx)
+
+**Redux**
+
+- [ ] [What is Flux? ](https://sungjk.github.io/2016/10/03/Whatisflux.html)
+- [ ] [Redux를 이해하자](https://medium.com/@ljs0705/redux%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EC%9E%90-7c9e8de0ab7f)
+- [ ] :kr: [Redux로 시작하기: 왜 Redux인가?](https://code.tutsplus.com/ko/tutorials/getting-started-with-redux-why-redux--cms-30349)
+- [ ] [리덕스(Redux) 애플리케이션 설계에 대한 생각](http://huns.me/development/1953)
+- [ ] [리덕스 패턴과 안티 패턴 (Redux Patterns and Anti-Patterns)](https://www.vobour.com/%EB%A6%AC%EB%8D%95%EC%8A%A4-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%95%88%ED%8B%B0-%ED%8C%A8%ED%84%B4-redux-patterns-and-anti-p)
 
 
 
@@ -105,6 +123,15 @@ ___
 
 - [ ] [Grpahql 적용 시 고민해 볼 점 · Showerbugs](https://showerbugs.github.io/2018-04-20/Graphql-%EC%A0%81%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%A0-%EC%A0%90)
 - [ ] [Graphql과 RESTful API의 캐싱](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
+- [ ] [GraphQL과 RESTful API](https://www.holaxprogramming.com/2018/01/20/graphql-vs-restful-api/)
+- [ ] [GraphQL을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
+
+
+
+**활용**
+
+- [Getting Started with GraphQL and Spring Boot | Baeldung](https://www.baeldung.com/spring-graphql)
+- [Building a GraphQL Server with Java Backend Tutorial](https://www.howtographql.com/graphql-java/0-introduction/)
 
 
 
@@ -124,11 +151,7 @@ ___
 
 #### NoSQL
 
-
-
 #### Redis
-
-
 
 #### MongoDB
 
@@ -152,6 +175,7 @@ ___
 **개념**
 
 - [ ] [ElasticSearch 에서 wildcard 쿼리 대신 ngram을 활용하는 방법](https://findstar.pe.kr/2018/07/14/elasticsearch-wildcard-to-ngram/)
+- [ ] [ElasticSearch 에서 null 과 empty string 의 차이](https://findstar.pe.kr/2018/01/24/difference-between-null-and-empty-string-elasticsearch/)
 
 **사용법**
 
@@ -226,17 +250,11 @@ ___
 
 #### IntelliJ
 
-
-
 #### VS Code
 
 **Extensions**
 
 - [22 Best Visual Studio Code Extensions for Web Development](https://scotch.io/bar-talk/22-best-visual-studio-code-extensions-for-web-development)
-
-
-
-#### Git
 
 
 
@@ -252,3 +270,5 @@ ___
 
 #### 밋업/세미나
 
+- [Festa](https://festa.io/)
+- [양재동 코드랩](https://www.codelabs.kr/codelabs/list)
