@@ -71,7 +71,7 @@ ___
 
 - [ ] [[JWT] JSON Web Token 소개 및 구조 - VELOPERT](https://velopert.com/2389)
 - [ ] [안전한 JWT 웹서비스 사용자 인증 구현하기](https://diokun.wordpress.com/2017/04/07/%EC%95%88%EC%A0%84%ED%95%9C-jwt-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
-- [ ] [JWT를 구현하면서 마주치게 되는 고민들](https://swalloow.github.io/implement-jwt)
+- [x] :heart: [JWT를 구현하면서 마주치게 되는 고민들](https://swalloow.github.io/implement-jwt)
 
 
 
@@ -80,7 +80,7 @@ ___
 **개념**
 
 - [ ] [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/?fbclid=IwAR1E2O2JoMIo6MPEe82byiMYtbcHIJs2PETlidAaxwugBnWMh_3-vgP88-Y)
-- [ ] [React 렌더링과 성능 알아보기 : TOAST Meetup](https://meetup.toast.com/posts/110?fbclid=IwAR0YTSIGXezOOwkgaixMyuliXi4kZ8jjDr9ORlTvfu0AHSURb7oV_dzOONE)
+- [ ] :question: [React 렌더링과 성능 알아보기 : TOAST Meetup](https://meetup.toast.com/posts/110?fbclid=IwAR0YTSIGXezOOwkgaixMyuliXi4kZ8jjDr9ORlTvfu0AHSURb7oV_dzOONE)
 - [ ] [React state가 불변이어야 하는 이유](https://medium.com/@ljs0705/react-state%EA%B0%80-%EB%B6%88%EB%B3%80%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-ec2bf09c1021)
 - [ ] [react-tutorial 고급 (불변성 - Immutability 개념)](https://blog.naver.com/PostView.nhn?blogId=backsajang420&logNo=221358585106&categoryNo=85&parentCategoryNo=0)
 
@@ -94,7 +94,7 @@ ___
 - [ ] [What is Flux? ](https://sungjk.github.io/2016/10/03/Whatisflux.html)
 - [ ] [Redux를 이해하자](https://medium.com/@ljs0705/redux%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EC%9E%90-7c9e8de0ab7f)
 - [ ] :kr: [Redux로 시작하기: 왜 Redux인가?](https://code.tutsplus.com/ko/tutorials/getting-started-with-redux-why-redux--cms-30349)
-- [ ] [리덕스(Redux) 애플리케이션 설계에 대한 생각](http://huns.me/development/1953)
+- [ ] :heart: [리덕스(Redux) 애플리케이션 설계에 대한 생각](http://huns.me/development/1953)
 - [ ] [리덕스 패턴과 안티 패턴 (Redux Patterns and Anti-Patterns)](https://www.vobour.com/%EB%A6%AC%EB%8D%95%EC%8A%A4-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%95%88%ED%8B%B0-%ED%8C%A8%ED%84%B4-redux-patterns-and-anti-p)
 
 
@@ -124,7 +124,7 @@ ___
 - [ ] [Grpahql 적용 시 고민해 볼 점 · Showerbugs](https://showerbugs.github.io/2018-04-20/Graphql-%EC%A0%81%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%A0-%EC%A0%90)
 - [ ] [Graphql과 RESTful API의 캐싱](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
 - [ ] [GraphQL과 RESTful API](https://www.holaxprogramming.com/2018/01/20/graphql-vs-restful-api/)
-- [ ] [GraphQL을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
+- [x] :heart: [GraphQL을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
 
 
 
@@ -187,7 +187,7 @@ ___
 
 #### Message Queue
 
-- [ ] [[오픈소스] 메시지큐(Message Queue) 알아보기](https://12bme.tistory.com/176)
+- [x] :heart: [[오픈소스] 메시지큐(Message Queue) 알아보기](https://12bme.tistory.com/176)
 
 
 
@@ -196,13 +196,13 @@ ___
 **개념**
 
 - [ ] [Kafka 이해하기 - 카프카의 구성요소, 동작원리, Exactly-delivery-once 모델 차용](https://medium.com/@umanking/%EC%B9%B4%ED%94%84%EC%B9%B4%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%95%98%EA%B8%B0%EC%A0%84%EC%97%90-%EB%A8%BC%EC%A0%80-data%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%B4%EB%B3%B4%EC%9E%90-d2e3ca2f3c2)
-- [ ] [Kafka 생태계 들여다보기](https://speakerdeck.com/dongjin/kafka-ecosystem-explained)
+- [x] :computer: [Kafka 생태계 들여다보기](https://speakerdeck.com/dongjin/kafka-ecosystem-explained)
 - [ ] [Kafka 면접 질문](https://koocci.github.io/kafka/2018/05/09/KAFKA2.html)
 
 **Avro와 Schema Registry**
 
-- [ ] [Kafka 와 Confluent Schema Registry 를 사용한 스키마 관리](https://medium.com/@gaemi/kafka-%EC%99%80-confluent-schema-registry-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%8A%A4%ED%82%A4%EB%A7%88-%EA%B4%80%EB%A6%AC-1-cdf8c99d2c5c)
-- [ ] [Thrift vs Protocol Buffers vs Avro - Biased Comparison](https://www.slideshare.net/IgorAnishchenko/pb-vs-thrift-vs-avro)
+- [x] [Kafka 와 Confluent Schema Registry 를 사용한 스키마 관리](https://medium.com/@gaemi/kafka-%EC%99%80-confluent-schema-registry-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%8A%A4%ED%82%A4%EB%A7%88-%EA%B4%80%EB%A6%AC-1-cdf8c99d2c5c)
+- [x] :computer: [Thrift vs Protocol Buffers vs Avro - Biased Comparison](https://www.slideshare.net/IgorAnishchenko/pb-vs-thrift-vs-avro)
 
 
 
@@ -216,7 +216,7 @@ ___
 
 #### Operation
 
-- [ ] [안정적인 서비스 운영](https://www.slideshare.net/cybaek/201403)
+- [ ] :computer: [안정적인 서비스 운영](https://www.slideshare.net/cybaek/201403)
 - [ ] [대용량 세션을 위한 로드밸런서 - D2](https://d2.naver.com/helloworld/605418)
 
 
