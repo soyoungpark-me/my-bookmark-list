@@ -14,7 +14,7 @@
 
 #### [웹 개발](#웹-개발-1)
 
-1. [웹 개발](#웹-개발-2)
+1. [튜토리얼](#튜토리얼)
 2. [React](#react)
 3. [Spring/Spring Boot](#springspring-boot)
 4. [Node.js](#nodejs)
@@ -44,15 +44,20 @@
 2. [Docker](#docker)
 3. [Jenkins](#jenkins)
 
-#### [Editor/IDE](editoride-1)
+#### [Computer Science](#computer-science-1)
 
-1. [IntelliJ](#intellij)
-2. [VS Code](vs-code)
+1. [Network](#network)
+2. [Database](#database)
+3. [운영체제](#운영체제)
+4. [웹 기초](#웹-기초)
+5. [디자인 패턴](#디자인-패턴)
+6. [JAVA](#java)
 
-#### [+ 취업 준비](#-취업-준비-1)
+#### [+ 기타](#-기타-1)
 
 1. [취업 준비](#취업-준비)
 2. [밋업/세미나](#밋업세미나)
+3. [Editor/IDE](#editoride-1)
 
 
 
@@ -60,18 +65,10 @@ ___
 
 # 웹 개발
 
-## 웹 개발
-
-**튜토리얼**
+## 튜토리얼
 
 - [부스트코스\] 웹 프로그래밍 > 1. 웹 프로그래밍 기초 : edwith](https://www.edwith.org/boostcourse-web/joinLectures/12952)
 - [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/)
-
-**JWT**
-
-- [ ] [[JWT] JSON Web Token 소개 및 구조 - VELOPERT](https://velopert.com/2389)
-- [ ] [안전한 JWT 웹서비스 사용자 인증 구현하기](https://diokun.wordpress.com/2017/04/07/%EC%95%88%EC%A0%84%ED%95%9C-jwt-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
-- [x] :heart: [JWT를 구현하면서 마주치게 되는 고민들](https://swalloow.github.io/implement-jwt)
 
 
 
@@ -103,6 +100,7 @@ ___
 
 **개념**
 
+- [ ] [Spring MVC 구조의 처리 과정](https://jeong-pro.tistory.com/96?category=793347)
 - [ ] [스프링의 DI 패턴 (좋은 예, 나쁜 예)](https://kinbiko.com/java/dependency-injection-patterns/)
 - [ ] [DI(의존성 주입)가 필요한 이유와 Spring에서 Field Injection보다 Constructor Injection이 권장되는 이유](http://www.mimul.com/pebble/default/2018/03/30/1522386129211.html)
 
@@ -252,27 +250,117 @@ ___
 
 
 
+
+
+# Computer Science
+
+## Network
+
+**프록시**
+
+- [ ] [포워드 프록시(forward proxy) 리버스 프록시(reverse proxy) 의 차이](https://www.lesstif.com/pages/viewpage.action?pageId=21430345)
+- [ ] [nginx에서 리버스 프록시 사용하기](https://akal.co.kr/?p=1173)
+
+**보안**
+
+- [ ] [HTTPS와 SSL 인증서 - 생활코딩](https://opentutorials.org/course/228/4894)
+- [ ] [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
+- [ ] [Http와 Https 이해와 차이점 그리고 오해(?)](https://jeong-pro.tistory.com/89?category=793347)
+
+
+
+## Database
+
+**구루비 강좌**
+- [ ] [SQL의 성능은 처리 범위에 좌우된다](http://www.gurubee.net/lecture/2228)
+- [ ] [결합 인덱스를 선정하는 우선순위](http://www.gurubee.net/lecture/2229)
+
+- **오라클의 인덱스**
+  - [ ] [인덱스란 무엇인가](http://www.gurubee.net/lecture/2926)
+  - [ ] [인덱스 종류 이해](http://www.gurubee.net/lecture/2935)
+  - [ ] [B*TREE 인덱스의 이해](http://www.gurubee.net/lecture/2936)
+  - [ ] [B*TREE 인덱스의 고려사항과 비트맵 인덱스](http://www.gurubee.net/lecture/2957)
+  - [ ] [비트맵 인덱스의 변경과 생성](http://www.gurubee.net/lecture/2958)
+
+- **클러스터링**
+  - [ ] [클러스터(Cluster)란?](http://www.gurubee.net/lecture/1114)
+  - [ ] [클러스터 인덱스](http://www.gurubee.net/lecture/1115)
+  - [ ] [데이터베이스 클러스터를 최적화하자. 1부](http://www.gurubee.net/lecture/2279)
+  - [ ] [데이터베이스 클러스터를 최적화하자. 2부](http://www.gurubee.net/lecture/2280)
+
+
+
+**인덱스**
+
+- [ ] [[MySQL] 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
+- [ ] [DB 인덱스의 구조는 어떻게 되어있나요? 인덱스는 언제 적용해야하나요?](https://jeong-pro.tistory.com/114)
+- [ ] [인덱스를 구성하는 컬럼의 수 : 단일 컬럼 인덱스 & 복합 컬럼 인덱스](http://www.mssql.org/LectureSQL/02_sql2k/idx_03.htm)
+
+**클러스터링**
+
+- [ ] :kr: [DB 클러스터란](http://www.funit.net/db)
+- [ ] [Oracle RAC란?](https://rosebud90.tistory.com/entry/Oracle-RAC%EB%9E%80)
+- [ ] [데이터베이스(데이터베이스(DB)-클러스터링(Clustering))](https://milhouse93.tistory.com/39)
+- [ ] [클러스터링의 활용 - 구루비](http://wiki.gurubee.net/pages/viewpage.action?pageId=688169)
+
+**기타**
+
+- [ ] [데이터베이스 - Exclusive lock과 Shared lock의 차이](https://jeong-pro.tistory.com/94?category=793347)
+
+
+
+## 운영체제
+
+- [ ] [메모리 단편화(Memory Fragmentation)가 무엇이고 왜 발생하는가?](https://jeong-pro.tistory.com/91?category=793347)
+
+
+
+## 웹 기초
+
+**JWT**
+
+- [ ] [[JWT] JSON Web Token 소개 및 구조 - VELOPERT](https://velopert.com/2389)
+- [ ] [안전한 JWT 웹서비스 사용자 인증 구현하기](https://diokun.wordpress.com/2017/04/07/%EC%95%88%EC%A0%84%ED%95%9C-jwt-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
+- [x] ❤️ [JWT를 구현하면서 마주치게 되는 고민들](https://swalloow.github.io/implement-jwt)
+
+**브라우저**
+
+- [ ] [웹 브라우저에서 HTML문서 렌더링 과정 (동작 순서)](https://jeong-pro.tistory.com/90?category=793347)
+
+**서버**
+
+- [ ] [WAS 와 웹 서버 차이 (WAS,Web Server) 그리고 아파치, 톰캣](https://jeong-pro.tistory.com/84?category=793347)
+- [ ] [Web - 쿠키와 세션의 차이, 용도, 사용법(cookie,session)](https://jeong-pro.tistory.com/80?category=793347)
+
+
+
+## 디자인 패턴
+
+- [ ] [싱글톤 패턴(Singleton pattern)을 쓰는 이유와 문제점](https://jeong-pro.tistory.com/86?category=793347)
+- [ ] [디자인 패턴 한 방에 정리하기](https://jeong-pro.tistory.com/98?category=793347)
+
+
+
+## JAVA
+
+- [ ] [객체 지향 프로그래밍이란?](https://jeong-pro.tistory.com/95?category=793347)
+- [ ] [JAVA 컬렉션 (Vector, ArrayList, LinkedList, Set, Map)](https://jeong-pro.tistory.com/87?category=793347)
+- [ ] [제네릭(Generic)에 대한 모든 것](https://jeong-pro.tistory.com/100?category=793347)
+- [ ] [JAVA 인터페이스와 추상클래스 공통점, 차이점 정리](https://jeong-pro.tistory.com/82?category=793347)
+
+
+**빌드 도구**
+
+- [ ] [[프로그래밍 지식] 빌드 도구 : Ant, Maven, Gradle 이 뭘까?](https://jj-one-a-week.blogspot.com/2017/05/ant-maven-gradle.html)
+- [ ] [[Gradle] 구글은 왜 그레이들을 채택했을까](https://brunch.co.kr/@yudong/67)
+
+
+
 ### [⬆️ 목차로](#목차)
 
 ___
 
-# Editor/IDE
-
-## IntelliJ
-
-## VS Code
-
-**Extensions**
-
-- [22 Best Visual Studio Code Extensions for Web Development](https://scotch.io/bar-talk/22-best-visual-studio-code-extensions-for-web-development)
-
-
-
-### [⬆️ 목차로](#목차)
-
-___
-
-# + 취업 준비
+# + 기타
 
 ## 취업 준비
 
@@ -284,6 +372,12 @@ ___
 
 - [Festa](https://festa.io/)
 - [양재동 코드랩](https://www.codelabs.kr/codelabs/list)
+
+## Editor/IDE
+
+**Extensions**
+
+- [22 Best Visual Studio Code Extensions for Web Development](https://scotch.io/bar-talk/22-best-visual-studio-code-extensions-for-web-development)
 
 
 
