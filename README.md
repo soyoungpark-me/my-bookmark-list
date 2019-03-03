@@ -58,9 +58,9 @@
 
 ___
 
-## 웹 개발
+# 웹 개발
 
-### 웹 개발
+## 웹 개발
 
 **튜토리얼**
 
@@ -75,7 +75,7 @@ ___
 
 
 
-### React
+## React
 
 **개념**
 
@@ -99,7 +99,7 @@ ___
 
 
 
-### Spring/Spring Boot
+## Spring/Spring Boot
 
 **개념**
 
@@ -108,7 +108,7 @@ ___
 
 
 
-### Node.js
+## Node.js
 
 **개념**
 
@@ -117,7 +117,7 @@ ___
 
 
 
-### GraphQL
+## GraphQL
 
 **개념**
 
@@ -135,29 +135,29 @@ ___
 
 
 
-#### [:arrow_up: 목차로](#목차)
+### [:arrow_up: 목차로](#목차)
 
 ___
 
-## RDBMS
+# RDBMS
 
-### MySQL
+## MySQL
 
-### OracleDB
+## OracleDB
 
 
 
-#### [⬆️ 목차로](#목차)
+### [⬆️ 목차로](#목차)
 
 ___
+
+# NoSQL
 
 ## NoSQL
 
-### NoSQL
+## Redis
 
-### Redis
-
-### MongoDB
+## MongoDB
 
 **개념**
 
@@ -174,7 +174,7 @@ ___
 
 
 
-### Elasticsearch
+## Elasticsearch
 
 **개념**
 
@@ -189,15 +189,15 @@ ___
 
 ___
 
-## Message Queue
+# Message Queue
 
-### Message Queue
+## Message Queue
 
 - [x] :heart: [[오픈소스] 메시지큐(Message Queue) 알아보기](https://12bme.tistory.com/176)
 
 
 
-### Kafka
+## Kafka
 
 **개념**
 
@@ -212,24 +212,24 @@ ___
 
 
 
-### RabbitMQ
+## RabbitMQ
 
 
 
-#### [⬆️ 목차로](#목차)
+### [⬆️ 목차로](#목차)
 
 ___
 
-## DevOps
+# DevOps
 
-### Operation
+## Operation
 
 - [ ] :computer: [안정적인 서비스 운영](https://www.slideshare.net/cybaek/201403)
 - [ ] [대용량 세션을 위한 로드밸런서 - D2](https://d2.naver.com/helloworld/605418)
 
 
 
-### Docker
+## Docker
 
 **개념**
 
@@ -238,7 +238,7 @@ ___
 
 
 
-### Jenkins
+## Jenkins
 
 **개념**
 
@@ -252,15 +252,15 @@ ___
 
 
 
-#### [⬆️ 목차로](#목차)
+### [⬆️ 목차로](#목차)
 
 ___
 
-## Editor/IDE
+# Editor/IDE
 
-### IntelliJ
+## IntelliJ
 
-### VS Code
+## VS Code
 
 **Extensions**
 
@@ -268,23 +268,23 @@ ___
 
 
 
-#### [⬆️ 목차로](#목차)
+### [⬆️ 목차로](#목차)
 
 ___
 
-## + 취업 준비
+# + 취업 준비
 
-### 취업 준비
+## 취업 준비
 
 **Interviews**
 
 - [React 인터뷰 질문 모음 번역](https://github.com/appear/reactjs-interview-questions-ko#is-it-good-to-use-setstate-in-componentwillmount-method)
 
-### 밋업/세미나
+## 밋업/세미나
 
 - [Festa](https://festa.io/)
 - [양재동 코드랩](https://www.codelabs.kr/codelabs/list)
 
 
 
-#### [⬆️ 목차로](#목차)
+### [⬆️ 목차로](#목차)
