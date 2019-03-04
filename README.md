@@ -112,6 +112,12 @@ ___
 
 - [ ] [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop)
 - [ ] [JAVA vs Node.js\] 무엇을 사용해야할까?](https://danielpark.net/183)
+- [ ] :kr: [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html)
+- [ ] [require는 어떻게 동작할까?](https://jongmin92.github.io/2017/07/13/Node/require/)
+
+**활용**
+
+- [ ] :kr: [네이티브 애드온으로 Node.js의 성능을 향상 시키는 방법](http://shiren.github.io/2016-02-18-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%95%A0%EB%93%9C%EC%98%A8%EC%9C%BC%EB%A1%9C-Node.js%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%84-%ED%96%A5%EC%83%81-%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 
 
 
@@ -331,6 +337,7 @@ ___
 
 - [ ] [WAS 와 웹 서버 차이 (WAS,Web Server) 그리고 아파치, 톰캣](https://jeong-pro.tistory.com/84?category=793347)
 - [ ] [Web - 쿠키와 세션의 차이, 용도, 사용법(cookie,session)](https://jeong-pro.tistory.com/80?category=793347)
+- [ ] [REST 기반의 간단한 분산 트랜잭션 구현](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-1%ED%8E%B8/?utm_source=popit&utm_campaign=notice)
 
 
 
