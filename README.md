@@ -95,7 +95,7 @@ ___
 - [ ] :heart: [리덕스(Redux) 애플리케이션 설계에 대한 생각](http://huns.me/development/1953)
 - [ ] [리덕스 패턴과 안티 패턴 (Redux Patterns and Anti-Patterns)](https://www.vobour.com/%EB%A6%AC%EB%8D%95%EC%8A%A4-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%95%88%ED%8B%B0-%ED%8C%A8%ED%84%B4-redux-patterns-and-anti-p)
 
-
+<br>
 
 ## Spring/Spring Boot
 
@@ -106,7 +106,7 @@ ___
 - [ ] [DI(의존성 주입)가 필요한 이유와 Spring에서 Field Injection보다 Constructor Injection이 권장되는 이유](http://www.mimul.com/pebble/default/2018/03/30/1522386129211.html)
 - [ ] [Commons DBCP 이해하기 - NAVER d2](https://d2.naver.com/helloworld/5102792)
 
-
+<br>
 
 ## Node.js
 
@@ -121,7 +121,7 @@ ___
 
 - :kr: [네이티브 애드온으로 Node.js의 성능을 향상 시키는 방법](http://shiren.github.io/2016-02-18-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%95%A0%EB%93%9C%EC%98%A8%EC%9C%BC%EB%A1%9C-Node.js%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%84-%ED%96%A5%EC%83%81-%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 
-
+<br>
 
 ## GraphQL
 
@@ -132,9 +132,6 @@ ___
 - [ ] [GraphQL과 RESTful API](https://www.holaxprogramming.com/2018/01/20/graphql-vs-restful-api/)
 - [x] :heart: [GraphQL을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
 - [ ] [React와 Apollo, Parcel 기반 서비스 개발 - NAVER d2](https://d2.naver.com/helloworld/2838729)
-
-
-
 
 **활용**
 
@@ -166,6 +163,8 @@ ___
 - [ ] [NoSQL 데이터베이스란? - AWS](https://aws.amazon.com/ko/nosql/)
 - [ ] :kr: [블로그 | NoSQL 열풍에도 MySQL이 여전히 왕좌에 있는 이유](http://www.ciokorea.com/news/34129)
 
+<br>
+
 ## Redis
 
 ## MongoDB
@@ -179,6 +178,7 @@ ___
 - [ ] [MongoDB Schema 디자인 하기](https://blog.outsider.ne.kr/655)
 - [ ] [MongoDB 스키마 디자인을 위한 6가지 규칙 요약](https://edykim.com/ko/post/summary-of-six-rules-for-designing-a-mongodb-schema/)
 
+<br>
 
 ## Elasticsearch
 
@@ -200,8 +200,9 @@ ___
 ## Message Queue
 
 - [x] :heart: [[오픈소스] 메시지큐(Message Queue) 알아보기](https://12bme.tistory.com/176)
+- [X] :kr: [왜 메시지큐를 사용해야 하는가](https://earlybird.kr/1489)
 
-
+<br>
 
 ## Kafka
 
@@ -216,7 +217,7 @@ ___
 - [x] [Kafka 와 Confluent Schema Registry 를 사용한 스키마 관리](https://medium.com/@gaemi/kafka-%EC%99%80-confluent-schema-registry-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%8A%A4%ED%82%A4%EB%A7%88-%EA%B4%80%EB%A6%AC-1-cdf8c99d2c5c)
 - [x] :computer: [Thrift vs Protocol Buffers vs Avro - Biased Comparison](https://www.slideshare.net/IgorAnishchenko/pb-vs-thrift-vs-avro)
 
-
+<br>
 
 ## RabbitMQ
 
@@ -235,7 +236,7 @@ ___
 - [ ] [대용량 스트리밍 데이터 실시간 분석 - NAVER d2](https://d2.naver.com/helloworld/7731491)
 - [ ] [[NDC 18] 서버 디렉터가 직접 답했다, '듀랑고' 출시 초기 서버 문제의 원인](https://1boon.kakao.com/thisisgame/news001412)
 
-
+<br>
 
 ## Docker
 
@@ -244,7 +245,7 @@ ___
 - [ ] [왜 굳이 도커(컨테이너)를 써야 하나요? - 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 - [ ] [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/?fbclid=IwAR2wrU-GquhBgN6hcZkqjYa8-__zN1gZnHvM3LN1z4KwKn84A46_uY8WiUw)
 
-
+<br>
 
 ## Jenkins
 
@@ -255,9 +256,6 @@ ___
 - [docker를 이용한 CI 구축 연습하기 (젠킨스, 슬랙)](https://jojoldu.tistory.com/139)
 
   > 작년에 시도했던 글 들이라 많이 달라졌을 수도 있음
-
-
-
 
 
 # Computer Science
@@ -290,7 +288,7 @@ ___
 - [ ] [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
 - [ ] [Http와 Https 이해와 차이점 그리고 오해(?)](https://jeong-pro.tistory.com/89?category=793347)
 
-
+<br>
 
 ## Database
 
@@ -311,8 +309,6 @@ ___
   - [ ] [데이터베이스 클러스터를 최적화하자. 1부](http://www.gurubee.net/lecture/2279)
   - [ ] [데이터베이스 클러스터를 최적화하자. 2부](http://www.gurubee.net/lecture/2280)
 
-
-
 **인덱스**
 
 - [ ] [[MySQL] 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
@@ -330,13 +326,13 @@ ___
 - [ ] [DBMS는 어떻게 트랜잭션을 관리할까? - NAVER d2](https://d2.naver.com/helloworld/407507)
 - [ ] [데이터베이스 - Exclusive lock과 Shared lock의 차이](https://jeong-pro.tistory.com/94?category=793347)
 
-
+<br>
 
 ## 운영체제
 
 - [ ] [메모리 단편화(Memory Fragmentation)가 무엇이고 왜 발생하는가?](https://jeong-pro.tistory.com/91?category=793347)
 
-
+<br>
 
 ## 웹 기초
 
@@ -363,7 +359,7 @@ ___
 - [ ] [싱글톤 패턴(Singleton pattern)을 쓰는 이유와 문제점](https://jeong-pro.tistory.com/86?category=793347)
 - [ ] [디자인 패턴 한 방에 정리하기](https://jeong-pro.tistory.com/98?category=793347)
 
-
+<br>
 
 ## JAVA
 
@@ -390,7 +386,10 @@ ___
 
 **Interviews**
 
+- [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
+- [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [React 인터뷰 질문 모음 번역](https://github.com/appear/reactjs-interview-questions-ko#is-it-good-to-use-setstate-in-componentwillmount-method)
+
 
 ## 밋업/세미나
 
