@@ -172,11 +172,6 @@ ___
 - [ ] [MongoDB Schema 디자인 하기](https://blog.outsider.ne.kr/655)
 - [ ] [MongoDB 스키마 디자인을 위한 6가지 규칙 요약](https://edykim.com/ko/post/summary-of-six-rules-for-designing-a-mongodb-schema/)
 
-**사용법**
-
-- [Ubuntu 16.04에 MongoDB 3.4를 설치하고 외부에서 접근해 보자](https://pinedance.github.io/blog/2017/06/20/mongoDB-on-ubuntu)
-
-
 
 ## Elasticsearch
 
@@ -249,8 +244,6 @@ ___
 **사용법**
 
 - [docker를 이용한 CI 구축 연습하기 (젠킨스, 슬랙)](https://jojoldu.tistory.com/139)
-
-- [Continuous delivery of react app with Jenkins and Docker](https://hackernoon.com/continuous-delivery-of-react-app-with-jenkins-and-docker-8a1ae1511b86)
 
   > 작년에 시도했던 글 들이라 많이 달라졌을 수도 있음
 
