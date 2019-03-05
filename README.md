@@ -76,6 +76,7 @@ ___
 
 **개념**
 
+- [ ] [React 적용 가이드 - 네이버 메일 모바일 웹 적용기 - NAVER d2](https://d2.naver.com/helloworld/4966453)
 - [ ] [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/?fbclid=IwAR1E2O2JoMIo6MPEe82byiMYtbcHIJs2PETlidAaxwugBnWMh_3-vgP88-Y)
 - [ ] :question: [React 렌더링과 성능 알아보기 : TOAST Meetup](https://meetup.toast.com/posts/110?fbclid=IwAR0YTSIGXezOOwkgaixMyuliXi4kZ8jjDr9ORlTvfu0AHSURb7oV_dzOONE)
 - [ ] [React state가 불변이어야 하는 이유](https://medium.com/@ljs0705/react-state%EA%B0%80-%EB%B6%88%EB%B3%80%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-ec2bf09c1021)
@@ -103,13 +104,14 @@ ___
 - [ ] [Spring MVC 구조의 처리 과정](https://jeong-pro.tistory.com/96?category=793347)
 - [ ] [스프링의 DI 패턴 (좋은 예, 나쁜 예)](https://kinbiko.com/java/dependency-injection-patterns/)
 - [ ] [DI(의존성 주입)가 필요한 이유와 Spring에서 Field Injection보다 Constructor Injection이 권장되는 이유](http://www.mimul.com/pebble/default/2018/03/30/1522386129211.html)
+- [ ] [Commons DBCP 이해하기 - NAVER d2](https://d2.naver.com/helloworld/5102792)
 
 
 
 ## Node.js
 
 **개념**
-
+- [ ] [빠르게 서비스를 개발할 수 있는 Node.js - NAVER d2](https://d2.naver.com/helloworld/4994500)
 - [ ] [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop)
 - [ ] [\[JAVA vs Node.js\] 무엇을 사용해야할까?](https://danielpark.net/183)
 - [ ] :kr: [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html)
@@ -129,6 +131,8 @@ ___
 - [ ] [Graphql과 RESTful API의 캐싱](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
 - [ ] [GraphQL과 RESTful API](https://www.holaxprogramming.com/2018/01/20/graphql-vs-restful-api/)
 - [x] :heart: [GraphQL을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
+- [ ] [React와 Apollo, Parcel 기반 서비스 개발 - NAVER d2](https://d2.naver.com/helloworld/2838729)
+
 
 
 
@@ -158,6 +162,9 @@ ___
 # NoSQL
 
 ## NoSQL
+
+- [ ] [NoSQL 데이터베이스란? - AWS](https://aws.amazon.com/ko/nosql/)
+- [ ] :kr: [블로그 | NoSQL 열풍에도 MySQL이 여전히 왕좌에 있는 이유](http://www.ciokorea.com/news/34129)
 
 ## Redis
 
@@ -224,7 +231,9 @@ ___
 ## Operation
 
 - [ ] :computer: [안정적인 서비스 운영](https://www.slideshare.net/cybaek/201403)
-- [ ] [대용량 세션을 위한 로드밸런서 - D2](https://d2.naver.com/helloworld/605418)
+- [ ] [대용량 세션을 위한 로드밸런서 - NAVER d2](https://d2.naver.com/helloworld/605418)
+- [ ] [대용량 스트리밍 데이터 실시간 분석 - NAVER d2](https://d2.naver.com/helloworld/7731491)
+- [ ] [[NDC 18] 서버 디렉터가 직접 답했다, '듀랑고' 출시 초기 서버 문제의 원인](https://1boon.kakao.com/thisisgame/news001412)
 
 
 
@@ -255,13 +264,28 @@ ___
 
 ## Network
 
+**통신**
+
+- [ ] [데이터를 송수신하는 과정](https://asfirstalways.tistory.com/318?category=685177)
+- [ ] [네트워크 모델이란? Server-Client 방식과 Peer-to-Peer 방식](https://mindnet.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-11%ED%8E%B8-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EC%9D%B4%EB%9E%80-Protocol-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80?category=702276)
+- [ ] [WAN이란? 원거리 통신망](https://mindnet.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-6%ED%8E%B8-WAN-%EC%9D%B4%EB%9E%80-%EC%9B%90%EA%B1%B0%EB%A6%AC-%ED%86%B5%EC%8B%A0%EB%A7%9D?category=702276)
+
+**TCP**
+
+- [ ] [3-way-handshake & 4-way-handshake](https://asfirstalways.tistory.com/356)
+
+**성능**
+
+- [ ] [[physical Layer] 네트워크의 물리적 성능](https://neuro.tistory.com/56)
+- [ ] [성능 엔지니어링 대한 접근 방법 (Performance tuning)](https://bcho.tistory.com/787)
+
 **프록시**
 
 - [ ] [포워드 프록시(forward proxy) 리버스 프록시(reverse proxy) 의 차이](https://www.lesstif.com/pages/viewpage.action?pageId=21430345)
 - [ ] [nginx에서 리버스 프록시 사용하기](https://akal.co.kr/?p=1173)
 
-**보안**
-
+**HTTP/HTTPS**
+- [ ] [HTTP 함수 - Post vs Put vs Patch](https://goodgid.github.io/HTTP-Method-Post-vs-Put-vs-Patch/)
 - [ ] [HTTPS와 SSL 인증서 - 생활코딩](https://opentutorials.org/course/228/4894)
 - [ ] [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
 - [ ] [Http와 Https 이해와 차이점 그리고 오해(?)](https://jeong-pro.tistory.com/89?category=793347)
@@ -302,8 +326,8 @@ ___
 - [ ] [데이터베이스(데이터베이스(DB)-클러스터링(Clustering))](https://milhouse93.tistory.com/39)
 - [ ] [클러스터링의 활용 - 구루비](http://wiki.gurubee.net/pages/viewpage.action?pageId=688169)
 
-**기타**
-
+**트랜잭션**
+- [ ] [DBMS는 어떻게 트랜잭션을 관리할까? - NAVER d2](https://d2.naver.com/helloworld/407507)
 - [ ] [데이터베이스 - Exclusive lock과 Shared lock의 차이](https://jeong-pro.tistory.com/94?category=793347)
 
 
@@ -331,7 +355,7 @@ ___
 - [ ] [WAS 와 웹 서버 차이 (WAS,Web Server) 그리고 아파치, 톰캣](https://jeong-pro.tistory.com/84?category=793347)
 - [ ] [Web - 쿠키와 세션의 차이, 용도, 사용법(cookie,session)](https://jeong-pro.tistory.com/80?category=793347)
 - [ ] [REST 기반의 간단한 분산 트랜잭션 구현](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-1%ED%8E%B8/?utm_source=popit&utm_campaign=notice)
-
+- [ ] [[칼럼]IT내부 실패 단일점에 대해 알고 있는가?](http://www.zdnet.co.kr/view/?no=20101220174657)
 
 
 ## 디자인 패턴
