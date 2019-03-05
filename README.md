@@ -257,6 +257,7 @@ ___
 
   > 작년에 시도했던 글 들이라 많이 달라졌을 수도 있음
 
+___
 
 # Computer Science
 
@@ -353,6 +354,7 @@ ___
 - [ ] [REST 기반의 간단한 분산 트랜잭션 구현](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-1%ED%8E%B8/?utm_source=popit&utm_campaign=notice)
 - [ ] [[칼럼]IT내부 실패 단일점에 대해 알고 있는가?](http://www.zdnet.co.kr/view/?no=20101220174657)
 
+<br>
 
 ## 디자인 패턴
 
