@@ -298,26 +298,23 @@ ___
 
 **구루비 강좌**
 - [ ] [SQL의 성능은 처리 범위에 좌우된다](http://www.gurubee.net/lecture/2228)
-- [ ] [결합 인덱스를 선정하는 우선순위](http://www.gurubee.net/lecture/2229)
+- [X] :question: [결합 인덱스를 선정하는 우선순위](http://www.gurubee.net/lecture/2229)
 
-- **오라클의 인덱스**
-  - [ ] [인덱스란 무엇인가](http://www.gurubee.net/lecture/2926)
-  - [ ] [인덱스 종류 이해](http://www.gurubee.net/lecture/2935)
-  - [ ] [B*TREE 인덱스의 이해](http://www.gurubee.net/lecture/2936)
-  - [ ] [B*TREE 인덱스의 고려사항과 비트맵 인덱스](http://www.gurubee.net/lecture/2957)
-  - [ ] [비트맵 인덱스의 변경과 생성](http://www.gurubee.net/lecture/2958)
+  **오라클의 인덱스**
+    - [X] [인덱스란 무엇인가](http://www.gurubee.net/lecture/2926)
+    
+      > 여기서부터 시리즈로 그냥 쭉 보는게 좋을듯!
 
-- **클러스터링**
-  - [ ] [클러스터(Cluster)란?](http://www.gurubee.net/lecture/1114)
-  - [ ] [클러스터 인덱스](http://www.gurubee.net/lecture/1115)
-  - [ ] [데이터베이스 클러스터를 최적화하자. 1부](http://www.gurubee.net/lecture/2279)
-  - [ ] [데이터베이스 클러스터를 최적화하자. 2부](http://www.gurubee.net/lecture/2280)
+  **클러스터링**
+    - [ ] [클러스터(Cluster)란?](http://www.gurubee.net/lecture/1114)
+    - [ ] [클러스터 인덱스](http://www.gurubee.net/lecture/1115)
+    - [ ] [데이터베이스 클러스터를 최적화하자. 1부](http://www.gurubee.net/lecture/2279)
+    - [ ] [데이터베이스 클러스터를 최적화하자. 2부](http://www.gurubee.net/lecture/2280)
 
 **인덱스**
 
-- [ ] [[MySQL] 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
-- [ ] [DB 인덱스의 구조는 어떻게 되어있나요? 인덱스는 언제 적용해야하나요?](https://jeong-pro.tistory.com/114)
-- [ ] [인덱스를 구성하는 컬럼의 수 : 단일 컬럼 인덱스 & 복합 컬럼 인덱스](http://www.mssql.org/LectureSQL/02_sql2k/idx_03.htm)
+- [X] [[MySQL] 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
+- [X] [DB 인덱스의 구조는 어떻게 되어있나요? 인덱스는 언제 적용해야하나요?](https://jeong-pro.tistory.com/114)
 
 **클러스터링**
 
@@ -327,8 +324,8 @@ ___
 - [ ] [클러스터링의 활용 - 구루비](http://wiki.gurubee.net/pages/viewpage.action?pageId=688169)
 
 **트랜잭션**
-- [ ] [DBMS는 어떻게 트랜잭션을 관리할까? - NAVER d2](https://d2.naver.com/helloworld/407507)
-- [ ] [데이터베이스 - Exclusive lock과 Shared lock의 차이](https://jeong-pro.tistory.com/94?category=793347)
+- [X] [DBMS는 어떻게 트랜잭션을 관리할까? - NAVER d2](https://d2.naver.com/helloworld/407507)
+- [X] [데이터베이스 - Exclusive lock과 Shared lock의 차이](https://jeong-pro.tistory.com/94?category=793347)
 
 <br>
 
