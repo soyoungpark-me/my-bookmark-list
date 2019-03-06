@@ -76,11 +76,13 @@ ___
 
 **개념**
 
-- [ ] [React 적용 가이드 - 네이버 메일 모바일 웹 적용기 - NAVER d2](https://d2.naver.com/helloworld/4966453)
-- [ ] [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/?fbclid=IwAR1E2O2JoMIo6MPEe82byiMYtbcHIJs2PETlidAaxwugBnWMh_3-vgP88-Y)
-- [ ] :question: [React 렌더링과 성능 알아보기 : TOAST Meetup](https://meetup.toast.com/posts/110?fbclid=IwAR0YTSIGXezOOwkgaixMyuliXi4kZ8jjDr9ORlTvfu0AHSURb7oV_dzOONE)
-- [ ] [React state가 불변이어야 하는 이유](https://medium.com/@ljs0705/react-state%EA%B0%80-%EB%B6%88%EB%B3%80%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-ec2bf09c1021)
-- [ ] [react-tutorial 고급 (불변성 - Immutability 개념)](https://blog.naver.com/PostView.nhn?blogId=backsajang420&logNo=221358585106&categoryNo=85&parentCategoryNo=0)
+- [X] [React 적용 가이드 - 네이버 메일 모바일 웹 적용기 - NAVER d2](https://d2.naver.com/helloworld/4966453)
+- [x] [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/?fbclid=IwAR1E2O2JoMIo6MPEe82byiMYtbcHIJs2PETlidAaxwugBnWMh_3-vgP88-Y)
+- [X] :question: [React 렌더링과 성능 알아보기 : TOAST Meetup](https://meetup.toast.com/posts/110?fbclid=IwAR0YTSIGXezOOwkgaixMyuliXi4kZ8jjDr9ORlTvfu0AHSURb7oV_dzOONE)
+- [X] :us: [React의 Components, Elements, Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca)
+- [X] :kr: [React인가 Vue인가?](https://joshua1988.github.io/web_dev/vue-or-react/)
+- [X] [React state가 불변이어야 하는 이유](https://medium.com/@ljs0705/react-state%EA%B0%80-%EB%B6%88%EB%B3%80%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-ec2bf09c1021)
+- [X] :heart: [react-tutorial 고급 (불변성 - Immutability 개념)](https://blog.naver.com/PostView.nhn?blogId=backsajang420&logNo=221358585106&categoryNo=85&parentCategoryNo=0)
 
 **Redux와 Mobx**
 
@@ -89,10 +91,11 @@ ___
 
 **Redux**
 
-- [ ] [What is Flux? ](https://sungjk.github.io/2016/10/03/Whatisflux.html)
+- [ ] [What is Flux?](https://sungjk.github.io/2016/10/03/Whatisflux.html)
 - [ ] [Redux를 이해하자](https://medium.com/@ljs0705/redux%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EC%9E%90-7c9e8de0ab7f)
 - [ ] :kr: [Redux로 시작하기: 왜 Redux인가?](https://code.tutsplus.com/ko/tutorials/getting-started-with-redux-why-redux--cms-30349)
 - [ ] :heart: [리덕스(Redux) 애플리케이션 설계에 대한 생각](http://huns.me/development/1953)
+- [ ] :us: [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 - [ ] [리덕스 패턴과 안티 패턴 (Redux Patterns and Anti-Patterns)](https://www.vobour.com/%EB%A6%AC%EB%8D%95%EC%8A%A4-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%95%88%ED%8B%B0-%ED%8C%A8%ED%84%B4-redux-patterns-and-anti-p)
 
 <br>
