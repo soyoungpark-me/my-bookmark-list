@@ -79,10 +79,11 @@ ___
 - [X] [React 적용 가이드 - 네이버 메일 모바일 웹 적용기 - NAVER d2](https://d2.naver.com/helloworld/4966453)
 - [x] [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/?fbclid=IwAR1E2O2JoMIo6MPEe82byiMYtbcHIJs2PETlidAaxwugBnWMh_3-vgP88-Y)
 - [X] :question: [React 렌더링과 성능 알아보기 : TOAST Meetup](https://meetup.toast.com/posts/110?fbclid=IwAR0YTSIGXezOOwkgaixMyuliXi4kZ8jjDr9ORlTvfu0AHSURb7oV_dzOONE)
-- [X] :us: [React의 Components, Elements, Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca)
-- [X] :kr: [React인가 Vue인가?](https://joshua1988.github.io/web_dev/vue-or-react/)
+- [X] [React의 Components, Elements, Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca) :us:
+- [X] [React인가 Vue인가?](https://joshua1988.github.io/web_dev/vue-or-react/) :kr:
 - [X] [React state가 불변이어야 하는 이유](https://medium.com/@ljs0705/react-state%EA%B0%80-%EB%B6%88%EB%B3%80%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-ec2bf09c1021)
 - [X] :heart: [react-tutorial 고급 (불변성 - Immutability 개념)](https://blog.naver.com/PostView.nhn?blogId=backsajang420&logNo=221358585106&categoryNo=85&parentCategoryNo=0)
+- [ ] [Introducing React Hooks](https://john015.github.io/introducing-react-hooks)
 
 **Redux와 Mobx**
 
@@ -93,9 +94,9 @@ ___
 
 - [ ] [What is Flux?](https://sungjk.github.io/2016/10/03/Whatisflux.html)
 - [ ] [Redux를 이해하자](https://medium.com/@ljs0705/redux%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EC%9E%90-7c9e8de0ab7f)
-- [ ] :kr: [Redux로 시작하기: 왜 Redux인가?](https://code.tutsplus.com/ko/tutorials/getting-started-with-redux-why-redux--cms-30349)
+- [ ] [Redux로 시작하기: 왜 Redux인가?](https://code.tutsplus.com/ko/tutorials/getting-started-with-redux-why-redux--cms-30349) :kr:
 - [ ] :heart: [리덕스(Redux) 애플리케이션 설계에 대한 생각](http://huns.me/development/1953)
-- [ ] :us: [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
+- [ ] [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) :us:
 - [ ] [리덕스 패턴과 안티 패턴 (Redux Patterns and Anti-Patterns)](https://www.vobour.com/%EB%A6%AC%EB%8D%95%EC%8A%A4-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%95%88%ED%8B%B0-%ED%8C%A8%ED%84%B4-redux-patterns-and-anti-p)
 
 <br>
@@ -117,12 +118,12 @@ ___
 - [ ] [빠르게 서비스를 개발할 수 있는 Node.js - NAVER d2](https://d2.naver.com/helloworld/4994500)
 - [ ] [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop)
 - [ ] [\[JAVA vs Node.js\] 무엇을 사용해야할까?](https://danielpark.net/183)
-- [ ] :kr: [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html)
+- [ ] [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html) :kr:
 - [ ] [require는 어떻게 동작할까?](https://jongmin92.github.io/2017/07/13/Node/require/)
 
 **활용**
 
-- :kr: [네이티브 애드온으로 Node.js의 성능을 향상 시키는 방법](http://shiren.github.io/2016-02-18-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%95%A0%EB%93%9C%EC%98%A8%EC%9C%BC%EB%A1%9C-Node.js%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%84-%ED%96%A5%EC%83%81-%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95/)
+- [네이티브 애드온으로 Node.js의 성능을 향상 시키는 방법](http://shiren.github.io/2016-02-18-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%95%A0%EB%93%9C%EC%98%A8%EC%9C%BC%EB%A1%9C-Node.js%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%84-%ED%96%A5%EC%83%81-%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95/) :kr:
 
 <br>
 
@@ -164,7 +165,7 @@ ___
 ## NoSQL
 
 - [ ] [NoSQL 데이터베이스란? - AWS](https://aws.amazon.com/ko/nosql/)
-- [ ] :kr: [블로그 | NoSQL 열풍에도 MySQL이 여전히 왕좌에 있는 이유](http://www.ciokorea.com/news/34129)
+- [ ] [블로그 | NoSQL 열풍에도 MySQL이 여전히 왕좌에 있는 이유](http://www.ciokorea.com/news/34129) :kr:
 
 <br>
 
@@ -203,7 +204,7 @@ ___
 ## Message Queue
 
 - [x] :heart: [[오픈소스] 메시지큐(Message Queue) 알아보기](https://12bme.tistory.com/176)
-- [X] :kr: [왜 메시지큐를 사용해야 하는가](https://earlybird.kr/1489)
+- [X] [왜 메시지큐를 사용해야 하는가](https://earlybird.kr/1489) :kr:
 
 <br>
 
@@ -212,13 +213,13 @@ ___
 **개념**
 
 - [ ] [Kafka 이해하기 - 카프카의 구성요소, 동작원리, Exactly-delivery-once 모델 차용](https://medium.com/@umanking/%EC%B9%B4%ED%94%84%EC%B9%B4%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%95%98%EA%B8%B0%EC%A0%84%EC%97%90-%EB%A8%BC%EC%A0%80-data%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%B4%EB%B3%B4%EC%9E%90-d2e3ca2f3c2)
-- [x] :computer: [Kafka 생태계 들여다보기](https://speakerdeck.com/dongjin/kafka-ecosystem-explained)
+- [x] [Kafka 생태계 들여다보기](https://speakerdeck.com/dongjin/kafka-ecosystem-explained) :computer:
 - [ ] [Kafka 면접 질문](https://koocci.github.io/kafka/2018/05/09/KAFKA2.html)
 
 **Avro와 Schema Registry**
 
 - [x] [Kafka 와 Confluent Schema Registry 를 사용한 스키마 관리](https://medium.com/@gaemi/kafka-%EC%99%80-confluent-schema-registry-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%8A%A4%ED%82%A4%EB%A7%88-%EA%B4%80%EB%A6%AC-1-cdf8c99d2c5c)
-- [x] :computer: [Thrift vs Protocol Buffers vs Avro - Biased Comparison](https://www.slideshare.net/IgorAnishchenko/pb-vs-thrift-vs-avro)
+- [x] [Thrift vs Protocol Buffers vs Avro - Biased Comparison](https://www.slideshare.net/IgorAnishchenko/pb-vs-thrift-vs-avro) :computer:
 
 <br>
 
@@ -234,11 +235,11 @@ ___
 
 ## Operation
 
-- [ ] :computer: [안정적인 서비스 운영](https://www.slideshare.net/cybaek/201403)
+- [ ] [안정적인 서비스 운영](https://www.slideshare.net/cybaek/201403) :computer:
 - [ ] [대용량 세션을 위한 로드밸런서 - NAVER d2](https://d2.naver.com/helloworld/605418)
 - [ ] [대용량 스트리밍 데이터 실시간 분석 - NAVER d2](https://d2.naver.com/helloworld/7731491)
 - [ ] [[NDC 18] 서버 디렉터가 직접 답했다, '듀랑고' 출시 초기 서버 문제의 원인](https://1boon.kakao.com/thisisgame/news001412)
-
+- [ ] [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html) : 길지만 하나씩 보자
 <br>
 
 ## Docker
@@ -247,6 +248,13 @@ ___
 
 - [ ] [왜 굳이 도커(컨테이너)를 써야 하나요? - 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 - [ ] [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/?fbclid=IwAR2wrU-GquhBgN6hcZkqjYa8-__zN1gZnHvM3LN1z4KwKn84A46_uY8WiUw)
+
+<br>
+
+## AWS
+
+- [ ] [AWS Lambda를 이용한 이미지 썸네일 생성 개발 후기 - 당근마켓](https://medium.com/daangn/aws-lambda%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%8D%B8%EB%84%A4%EC%9D%BC-%EC%83%9D%EC%84%B1-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-acc278d49980)
+- [ ] [서비스 중단 없이 Amazon EKS로 옮긴 이야기 - VCNC](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
 
 <br>
 
@@ -268,13 +276,22 @@ ___
 
 **통신**
 
-- [ ] [데이터를 송수신하는 과정](https://asfirstalways.tistory.com/318?category=685177)
-- [ ] [네트워크 모델이란? Server-Client 방식과 Peer-to-Peer 방식](https://mindnet.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-11%ED%8E%B8-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EC%9D%B4%EB%9E%80-Protocol-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80?category=702276)
-- [ ] [WAN이란? 원거리 통신망](https://mindnet.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-6%ED%8E%B8-WAN-%EC%9D%B4%EB%9E%80-%EC%9B%90%EA%B1%B0%EB%A6%AC-%ED%86%B5%EC%8B%A0%EB%A7%9D?category=702276)
+- [X] [네트워크 모델이란? Server-Client 방식과 Peer-to-Peer 방식](https://mindnet.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-11%ED%8E%B8-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%EC%9D%B4%EB%9E%80-Protocol-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80?category=702276)
+- [X] [WAN이란? 원거리 통신망](https://mindnet.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-6%ED%8E%B8-WAN-%EC%9D%B4%EB%9E%80-%EC%9B%90%EA%B1%B0%EB%A6%AC-%ED%86%B5%EC%8B%A0%EB%A7%9D?category=702276)
 
 **TCP**
 
-- [ ] [3-way-handshake & 4-way-handshake](https://asfirstalways.tistory.com/356)
+- [X] [TCP/IP - 소켓을 작성하고 서버에 전송](https://asfirstalways.tistory.com/317?category=685177) : 시리즈로 쭉 보자
+- [X] [3-way-handshake & 4-way-handshake](https://asfirstalways.tistory.com/356)
+- [X] [흐름 / 혼잡 / 오류 제어 기법](https://goodgid.github.io/Error-Flow-Control/)
+
+**HTTP/HTTPS**
+
+- [ ] [HTTP 함수 - Post vs Put vs Patch](https://goodgid.github.io/HTTP-Method-Post-vs-Put-vs-Patch/)
+- [ ] [HTTP/3 explained](https://http3-explained.haxx.se/ko/) :kr: : 엄청 길다
+- [ ] [HTTPS와 SSL 인증서 - 생활코딩](https://opentutorials.org/course/228/4894)
+- [ ] [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
+- [ ] [HTTP와 HTTPS로 이해와 차이점 그리고 오해(?)](https://jeong-pro.tistory.com/89?category=793347)
 
 **성능**
 
@@ -285,12 +302,6 @@ ___
 
 - [ ] [포워드 프록시(forward proxy) 리버스 프록시(reverse proxy) 의 차이](https://www.lesstif.com/pages/viewpage.action?pageId=21430345)
 - [ ] [nginx에서 리버스 프록시 사용하기](https://akal.co.kr/?p=1173)
-
-**HTTP/HTTPS**
-- [ ] [HTTP 함수 - Post vs Put vs Patch](https://goodgid.github.io/HTTP-Method-Post-vs-Put-vs-Patch/)
-- [ ] [HTTPS와 SSL 인증서 - 생활코딩](https://opentutorials.org/course/228/4894)
-- [ ] [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
-- [ ] [Http와 Https 이해와 차이점 그리고 오해(?)](https://jeong-pro.tistory.com/89?category=793347)
 
 <br>
 
@@ -307,9 +318,7 @@ ___
 
   **클러스터링**
     - [ ] [클러스터(Cluster)란?](http://www.gurubee.net/lecture/1114)
-    - [ ] [클러스터 인덱스](http://www.gurubee.net/lecture/1115)
-    - [ ] [데이터베이스 클러스터를 최적화하자. 1부](http://www.gurubee.net/lecture/2279)
-    - [ ] [데이터베이스 클러스터를 최적화하자. 2부](http://www.gurubee.net/lecture/2280)
+    - [ ] [데이터베이스 클러스터를 최적화하자. 1부](http://www.gurubee.net/lecture/2279) : 2부도 있음!
 
 **인덱스**
 
@@ -318,7 +327,7 @@ ___
 
 **클러스터링**
 
-- [ ] :kr: [DB 클러스터란](http://www.funit.net/db)
+- [ ] [DB 클러스터란](http://www.funit.net/db) :kr:
 - [ ] [Oracle RAC란?](https://rosebud90.tistory.com/entry/Oracle-RAC%EB%9E%80)
 - [ ] [데이터베이스(데이터베이스(DB)-클러스터링(Clustering))](https://milhouse93.tistory.com/39)
 - [ ] [클러스터링의 활용 - 구루비](http://wiki.gurubee.net/pages/viewpage.action?pageId=688169)
@@ -342,6 +351,11 @@ ___
 - [ ] [[JWT] JSON Web Token 소개 및 구조 - VELOPERT](https://velopert.com/2389)
 - [ ] [안전한 JWT 웹서비스 사용자 인증 구현하기](https://diokun.wordpress.com/2017/04/07/%EC%95%88%EC%A0%84%ED%95%9C-jwt-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
 - [x] ❤️ [JWT를 구현하면서 마주치게 되는 고민들](https://swalloow.github.io/implement-jwt)
+
+**CORS**
+
+- [ ] [CORS, Preflight, 인증 처리 관련 삽질](https://www.popit.kr/cors-preflight-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC-%EA%B4%80%EB%A0%A8-%EC%82%BD%EC%A7%88/)
+- [ ] [Access Control Allow Origin 오류 해결 방법](https://likelionwonho.github.io/web/javascript/Access-Control-Allow-Origin-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/)
 
 **브라우저**
 
@@ -369,6 +383,7 @@ ___
 - [ ] [JAVA 컬렉션 (Vector, ArrayList, LinkedList, Set, Map)](https://jeong-pro.tistory.com/87?category=793347)
 - [ ] [제네릭(Generic)에 대한 모든 것](https://jeong-pro.tistory.com/100?category=793347)
 - [ ] [JAVA 인터페이스와 추상클래스 공통점, 차이점 정리](https://jeong-pro.tistory.com/82?category=793347)
+- [ ] [LINE의 OpenJDK 적용기](https://engineering.linecorp.com/ko/blog/line-open-jdk/)
 
 
 **빌드 도구**
