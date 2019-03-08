@@ -308,29 +308,22 @@ ___
 ## Database
 
 **구루비 강좌**
+
 - [ ] [SQL의 성능은 처리 범위에 좌우된다](http://www.gurubee.net/lecture/2228)
 - [X] :question: [결합 인덱스를 선정하는 우선순위](http://www.gurubee.net/lecture/2229)
-
-  **오라클의 인덱스**
-    - [X] [인덱스란 무엇인가](http://www.gurubee.net/lecture/2926)
-    
-      > 여기서부터 시리즈로 그냥 쭉 보는게 좋을듯!
-
-  **클러스터링**
-    - [ ] [클러스터(Cluster)란?](http://www.gurubee.net/lecture/1114)
-    - [ ] [데이터베이스 클러스터를 최적화하자. 1부](http://www.gurubee.net/lecture/2279) : 2부도 있음!
+- [X] [인덱스란 무엇인가](http://www.gurubee.net/lecture/2926) : 시리즈로 쭉 보자
 
 **인덱스**
 
 - [X] [[MySQL] 인덱스 정리 및 팁](https://jojoldu.tistory.com/243)
 - [X] [DB 인덱스의 구조는 어떻게 되어있나요? 인덱스는 언제 적용해야하나요?](https://jeong-pro.tistory.com/114)
 
-**클러스터링**
+**부하 분산**
 
-- [ ] [DB 클러스터란](http://www.funit.net/db) :kr:
 - [ ] [Oracle RAC란?](https://rosebud90.tistory.com/entry/Oracle-RAC%EB%9E%80)
-- [ ] [데이터베이스(데이터베이스(DB)-클러스터링(Clustering))](https://milhouse93.tistory.com/39)
-- [ ] [클러스터링의 활용 - 구루비](http://wiki.gurubee.net/pages/viewpage.action?pageId=688169)
+- [X] [데이터베이스(데이터베이스(DB)-클러스터링(Clustering))](https://milhouse93.tistory.com/39)
+- [X] [샤딩과 파티셔닝의 차이점](http://theeye.pe.kr/archives/1917)
+- [X] [Database의 리플리케이션(Replication)이란?](https://nesoy.github.io/articles/2018-02/Database-Replication)
 
 **트랜잭션**
 - [X] [DBMS는 어떻게 트랜잭션을 관리할까? - NAVER d2](https://d2.naver.com/helloworld/407507)
