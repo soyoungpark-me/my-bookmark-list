@@ -164,8 +164,8 @@ ___
 
 ## NoSQL
 
-- [ ] [NoSQL 데이터베이스란? - AWS](https://aws.amazon.com/ko/nosql/)
-- [ ] [블로그 | NoSQL 열풍에도 MySQL이 여전히 왕좌에 있는 이유](http://www.ciokorea.com/news/34129) :kr:
+- [x] [NoSQL 데이터베이스란? - AWS](https://aws.amazon.com/ko/nosql/)
+- [x] [블로그 | NoSQL 열풍에도 MySQL이 여전히 왕좌에 있는 이유](http://www.ciokorea.com/news/34129) :kr:
 
 <br>
 
@@ -188,7 +188,7 @@ ___
 
 **개념**
 
-- [ ] [ElasticSearch 에서 wildcard 쿼리 대신 ngram을 활용하는 방법](https://findstar.pe.kr/2018/07/14/elasticsearch-wildcard-to-ngram/)
+- [x] [ElasticSearch 에서 wildcard 쿼리 대신 ngram을 활용하는 방법](https://findstar.pe.kr/2018/07/14/elasticsearch-wildcard-to-ngram/)
 - [ ] [ElasticSearch 에서 null 과 empty string 의 차이](https://findstar.pe.kr/2018/01/24/difference-between-null-and-empty-string-elasticsearch/)
 
 **사용법**
@@ -264,9 +264,8 @@ ___
 
 **사용법**
 
-- [docker를 이용한 CI 구축 연습하기 (젠킨스, 슬랙)](https://jojoldu.tistory.com/139)
+- [docker를 이용한 CI 구축 연습하기 (젠킨스, 슬랙)](https://jojoldu.tistory.com/139) : 작년에 시도했던 글이라 달라졌을 수도 있음
 
-  > 작년에 시도했던 글 들이라 많이 달라졌을 수도 있음
 
 ___
 
@@ -295,7 +294,7 @@ ___
 
 **성능**
 
-- [ ] [[physical Layer] 네트워크의 물리적 성능](https://neuro.tistory.com/56)
+- [x] [[physical Layer] 네트워크의 물리적 성능](https://neuro.tistory.com/56)
 - [ ] [성능 엔지니어링 대한 접근 방법 (Performance tuning)](https://bcho.tistory.com/787)
 
 **프록시**
@@ -381,7 +380,7 @@ ___
 
 **빌드 도구**
 
-- [ ] [[프로그래밍 지식] 빌드 도구 : Ant, Maven, Gradle 이 뭘까?](https://jj-one-a-week.blogspot.com/2017/05/ant-maven-gradle.html)
+- [x] [[프로그래밍 지식] 빌드 도구 : Ant, Maven, Gradle 이 뭘까?](https://jj-one-a-week.blogspot.com/2017/05/ant-maven-gradle.html)
 - [ ] [[Gradle] 구글은 왜 그레이들을 채택했을까](https://brunch.co.kr/@yudong/67)
 
 
