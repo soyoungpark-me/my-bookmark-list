@@ -240,6 +240,11 @@ ___
 - [ ] [대용량 스트리밍 데이터 실시간 분석 - NAVER d2](https://d2.naver.com/helloworld/7731491)
 - [ ] [[NDC 18] 서버 디렉터가 직접 답했다, '듀랑고' 출시 초기 서버 문제의 원인](https://1boon.kakao.com/thisisgame/news001412)
 - [ ] [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html) : 길지만 하나씩 보자
+
+**Serverless**
+
+- [x] [서버리스(Serverless)가 온다! - ZDNet](http://www.zdnet.co.kr/view/?no=20160614172904)
+
 <br>
 
 ## Docker
@@ -253,7 +258,10 @@ ___
 
 ## AWS
 
+**Lambda**
+
 - [ ] [AWS Lambda를 이용한 이미지 썸네일 생성 개발 후기 - 당근마켓](https://medium.com/daangn/aws-lambda%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%8D%B8%EB%84%A4%EC%9D%BC-%EC%83%9D%EC%84%B1-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-acc278d49980)
+- [ ] [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/harrythegreat/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
 - [ ] [서비스 중단 없이 Amazon EKS로 옮긴 이야기 - VCNC](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
 
 <br>
