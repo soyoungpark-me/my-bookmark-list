@@ -55,9 +55,10 @@
 
 #### [+ 기타](#-기타-1)
 
-1. [취업 준비](#취업-준비)
-2. [밋업/세미나](#밋업세미나)
-3. [Editor/IDE](#editoride-1)
+1. [Github](#github)
+2. [취업 준비](#취업-준비)
+3. [밋업/세미나](#밋업세미나)
+4. [Editor/IDE](#editoride-1)
 
 
 
@@ -274,7 +275,6 @@ ___
 
 - [docker를 이용한 CI 구축 연습하기 (젠킨스, 슬랙)](https://jojoldu.tistory.com/139) : 작년에 시도했던 글이라 달라졌을 수도 있음
 
-
 ___
 
 # Computer Science
@@ -399,6 +399,13 @@ ___
 
 # + 기타
 
+## Github
+
+- [ ] [GitHub Pull Request가 자동으로 close되는 경우는? - LINE](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
+- [ ] [훅으로 Git에 훅 들어가기 - 우아한형제들](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
+
+<br>
+
 ## 취업 준비
 
 **Interviews**
@@ -407,11 +414,15 @@ ___
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [React 인터뷰 질문 모음 번역](https://github.com/appear/reactjs-interview-questions-ko#is-it-good-to-use-setstate-in-componentwillmount-method)
 
+<br>
+
 
 ## 밋업/세미나
 
 - [Festa](https://festa.io/)
 - [양재동 코드랩](https://www.codelabs.kr/codelabs/list)
+
+<br>
 
 ## Editor/IDE
 
