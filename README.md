@@ -366,7 +366,8 @@ ___
 - [ ] [WAS 와 웹 서버 차이 (WAS,Web Server) 그리고 아파치, 톰캣](https://jeong-pro.tistory.com/84?category=793347)
 - [ ] [Web - 쿠키와 세션의 차이, 용도, 사용법(cookie,session)](https://jeong-pro.tistory.com/80?category=793347)
 - [ ] [REST 기반의 간단한 분산 트랜잭션 구현](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-1%ED%8E%B8/?utm_source=popit&utm_campaign=notice)
-- [X] [[칼럼]IT내부 실패 단일점에 대해 알고 있는가?](http://www.zdnet.co.kr/view/?no=20101220174657)
+- [x] [[칼럼] IT내부 실패 단일점에 대해 알고 있는가?](http://www.zdnet.co.kr/view/?no=20101220174657)
+- [x] [실시간 서비스 경험기(배달운영시스템) - 우아한형제들](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
 
 <br>
 
