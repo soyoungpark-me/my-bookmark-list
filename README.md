@@ -205,7 +205,9 @@ ___
 ## Message Queue
 
 - [x] :heart: [[오픈소스] 메시지큐(Message Queue) 알아보기](https://12bme.tistory.com/176)
-- [X] [왜 메시지큐를 사용해야 하는가](https://earlybird.kr/1489) :kr:
+- [x] [왜 메시지큐를 사용해야 하는가](https://earlybird.kr/1489) :kr:
+- [ ] [MQTT 적용을 통한 중계시스템 개선 - 우아한형제들](http://woowabros.github.io/experience/2017/08/11/ost_mqtt_broker.html)
+- [ ] [MQTT Stress Test - 우아한형제들](http://woowabros.github.io/experience/2017/08/28/mqtt_stress_test.html)
 
 <br>
 
