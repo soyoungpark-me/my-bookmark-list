@@ -238,15 +238,20 @@ ___
 
 ## Operation
 
+- [ ] [개발환경을 한 방에! 쉘 스크립트의 힘 - 우아한형제들](http://woowabros.github.io/tools/2017/08/17/ost_bash.html)
 - [ ] [안정적인 서비스 운영](https://www.slideshare.net/cybaek/201403) :computer:
 - [ ] [대용량 세션을 위한 로드밸런서 - NAVER d2](https://d2.naver.com/helloworld/605418)
-- [ ] [대용량 스트리밍 데이터 실시간 분석 - NAVER d2](https://d2.naver.com/helloworld/7731491)
 - [ ] [[NDC 18] 서버 디렉터가 직접 답했다, '듀랑고' 출시 초기 서버 문제의 원인](https://1boon.kakao.com/thisisgame/news001412)
 - [ ] [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html) : 길지만 하나씩 보자
 
 **Serverless**
 
 - [x] [서버리스(Serverless)가 온다! - ZDNet](http://www.zdnet.co.kr/view/?no=20160614172904)
+
+**테스트 및 분석**
+
+- [ ] [대용량 스트리밍 데이터 실시간 분석 - NAVER d2](https://d2.naver.com/helloworld/7731491)
+- [ ] [결제 시스템 성능, 부하, 스트레스 테스트 - 우아한형제들](http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html)
 
 <br>
 
@@ -406,6 +411,10 @@ ___
 
 - [ ] [GitHub Pull Request가 자동으로 close되는 경우는? - LINE](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
 - [ ] [훅으로 Git에 훅 들어가기 - 우아한형제들](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
+
+**코드 리뷰**
+
+- [ ] [효과적인 코드 리뷰를 위해서 - LINE](https://engineering.linecorp.com/ko/blog/effective-codereview/)
 
 <br>
 
