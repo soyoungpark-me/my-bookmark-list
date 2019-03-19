@@ -361,8 +361,14 @@ ___
 
 **CORS**
 
-- [X] [CORS, Preflight, 인증 처리 관련 삽질](https://www.popit.kr/cors-preflight-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC-%EA%B4%80%EB%A0%A8-%EC%82%BD%EC%A7%88/)
-- [X] [Access Control Allow Origin 오류 해결 방법](https://likelionwonho.github.io/web/javascript/Access-Control-Allow-Origin-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/)
+- [x] [CORS, Preflight, 인증 처리 관련 삽질](https://www.popit.kr/cors-preflight-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC-%EA%B4%80%EB%A0%A8-%EC%82%BD%EC%A7%88/)
+- [x] [Access Control Allow Origin 오류 해결 방법](https://likelionwonho.github.io/web/javascript/Access-Control-Allow-Origin-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/)
+
+**보안**
+
+- [ ] [안전한 SSL/TLS를 운영하기 위해 알아야 하는 것들 - LINE](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
+- [ ] [커버로스 프로토콜(Kerberos Protocol) – 서버 접근 권한 관리](https://www.letmecompile.com/kerberos-protocol/)
+- [ ] [[서버 보안] 서버의 구성 및 인증(커버로스)](http://blog.naver.com/PostView.nhn?blogId=sol9501&logNo=70104706140)
 
 **브라우저**
 
