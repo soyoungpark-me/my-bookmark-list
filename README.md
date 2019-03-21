@@ -372,7 +372,9 @@ ___
 
 **브라우저**
 
-- [X] [웹 브라우저에서 HTML문서 렌더링 과정 (동작 순서)](https://jeong-pro.tistory.com/90?category=793347)
+- [x] [웹 브라우저에서 HTML문서 렌더링 과정 (동작 순서)](https://jeong-pro.tistory.com/90?category=793347)
+- [ ] :heart: [브라우저는 어떻게 동작하는가 - NAVER d2](https://d2.naver.com/helloworld/59361)
+- [ ] [[브라우저엔진] 브라우저 렌더링 엔진](https://12bme.tistory.com/208)
 
 **서버**
 
