@@ -407,6 +407,10 @@ ___
 - [x] [[프로그래밍 지식] 빌드 도구 : Ant, Maven, Gradle 이 뭘까?](https://jj-one-a-week.blogspot.com/2017/05/ant-maven-gradle.html)
 - [ ] [[Gradle] 구글은 왜 그레이들을 채택했을까](https://brunch.co.kr/@yudong/67)
 
+**JDBC**
+
+- [ ] [SQL Server 에게 String 이란? (NVARCHAR 인가 VARCHAR 인가) - 우아한형제들](http://woowabros.github.io/study/2019/01/25/sqlserver-jdbc-driver.html)
+
 
 
 ### [⬆️ 목차로](#목차)
@@ -427,6 +431,8 @@ ___
 <br>
 
 ## 취업 준비
+
+- [ ] [우리가 부르는 시니어 개발자는 누구인가? - 우아한형제들](http://woowabros.github.io/woowabros/2017/07/03/senior.html)
 
 **Interviews**
 
