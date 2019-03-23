@@ -84,7 +84,7 @@ ___
 - [X] [React인가 Vue인가?](https://joshua1988.github.io/web_dev/vue-or-react/) :kr:
 - [X] [React state가 불변이어야 하는 이유](https://medium.com/@ljs0705/react-state%EA%B0%80-%EB%B6%88%EB%B3%80%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-ec2bf09c1021)
 - [X] :heart: [react-tutorial 고급 (불변성 - Immutability 개념)](https://blog.naver.com/PostView.nhn?blogId=backsajang420&logNo=221358585106&categoryNo=85&parentCategoryNo=0)
-- [ ] [Introducing React Hooks](https://john015.github.io/introducing-react-hooks)
+- [x] [Introducing React Hooks](https://john015.github.io/introducing-react-hooks)
 
 **Redux와 Mobx**
 
@@ -118,7 +118,7 @@ ___
 **개념**
 - [ ] [빠르게 서비스를 개발할 수 있는 Node.js - NAVER d2](https://d2.naver.com/helloworld/4994500)
 - [ ] [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop)
-- [ ] [\[JAVA vs Node.js\] 무엇을 사용해야할까?](https://danielpark.net/183)
+- [ ] [[JAVA vs Node.js] 무엇을 사용해야할까?](https://danielpark.net/183)
 - [ ] [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html) :kr:
 - [ ] [require는 어떻게 동작할까?](https://jongmin92.github.io/2017/07/13/Node/require/)
 
@@ -427,6 +427,7 @@ ___
 **코드 리뷰**
 
 - [ ] [효과적인 코드 리뷰를 위해서 - LINE](https://engineering.linecorp.com/ko/blog/effective-codereview/)
+- [ ] [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니? - KAKAO](http://tech.kakao.com/2016/02/04/code-review/)
 
 <br>
 
