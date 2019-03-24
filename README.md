@@ -1,4 +1,4 @@
-## 목적
+# 목적
 
 쌓여만 가는 크롬 북마크를 정리하기 위해 만든 레포지토리입니다!
 
@@ -10,21 +10,21 @@
 
 
 
-## 목차
+# 목차
 
-### [웹 기술](#웹-기술-1)
+## [웹 기술](#웹-기술-1)
 
-- #### [Tutorial](#tutorial-1)
+### [Tutorial](#tutorial-1)
 
-- #### [Frontend](#frontend-1)
+### [Frontend](#frontend-1)
 
-  1. [React](#react)
+1. [React](#react)
 
-- #### [Backend](#backend-1)
+### [Backend](#backend-1)
 
-  1. [Spring/Spring Boot](#springspring-boot)
-  2. [Node.js](#nodejs)
-  3. [GraphQL](#graphql)
+1. [Spring/Spring Boot](#springspring-boot)
+2. [Node.js](#nodejs)
+3. [GraphQL](#graphql)
 
 ___
 
