@@ -12,13 +12,21 @@
 
 ## 목차
 
-#### [웹 개발](#웹-개발-1)
+### [웹 기술](#웹-기술-1)
 
-1. [튜토리얼](#튜토리얼)
-2. [React](#react)
-3. [Spring/Spring Boot](#springspring-boot)
-4. [Node.js](#nodejs)
-5. [GraphQL](#graphql)
+- #### [Tutorial](#tutorial-1)
+
+- #### [Frontend](#frontend-1)
+
+  1. [React](#react)
+
+- #### [Backend](#backend-1)
+
+  1. [Spring/Spring Boot](#springspring-boot)
+  2. [Node.js](#nodejs)
+  3. [GraphQL](#graphql)
+
+___
 
 #### [RDBMS](#rdbms-1)
 
@@ -64,16 +72,18 @@
 
 ___
 
-# 웹 개발
+# 웹 기술
 
-## 튜토리얼
+## Tutorial
 
 - [부스트코스\] 웹 프로그래밍 > 1. 웹 프로그래밍 기초 : edwith](https://www.edwith.org/boostcourse-web/joinLectures/12952)
 - [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/)
 
 
 
-## React
+## Frontend
+
+### React
 
 **개념**
 
@@ -102,7 +112,9 @@ ___
 
 <br>
 
-## Spring/Spring Boot
+## Backend
+
+### Spring/Spring Boot
 
 **개념**
 
@@ -113,7 +125,7 @@ ___
 
 <br>
 
-## Node.js
+### Node.js
 
 **개념**
 - [ ] [빠르게 서비스를 개발할 수 있는 Node.js - NAVER d2](https://d2.naver.com/helloworld/4994500)
@@ -128,7 +140,7 @@ ___
 
 <br>
 
-## GraphQL
+### GraphQL
 
 **개념**
 
