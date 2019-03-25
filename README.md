@@ -12,21 +12,29 @@
 
 # 목차
 
-## [웹 기술](#웹-기술-1)
+## WEB
 
-### [Tutorial](#tutorial-1)
+#### [Tutorial](#tutorial-1)
 
-### [Frontend](#frontend-1)
+#### [Frontend](#frontend-1)
 
 1. [React](#react)
 
-### [Backend](#backend-1)
+#### [Backend](#backend-1)
 
 1. [Spring/Spring Boot](#springspring-boot)
 2. [Node.js](#nodejs)
 3. [GraphQL](#graphql)
 
+#### [DevOps](#devops-1)
+
+1. [Operation](#operation)
+2. [Docker](#docker)
+3. [Jenkins](#jenkins)
+
 ___
+
+## DATA
 
 #### [RDBMS](#rdbms-1)
 
@@ -46,11 +54,9 @@ ___
 2. [Kafka](#kafka)
 3. [RabbitMQ](#rabbitmq)
 
-#### [DevOps](#devops-1)
+___
 
-1. [Operation](#operation)
-2. [Docker](#docker)
-3. [Jenkins](#jenkins)
+## BASIS
 
 #### [Computer Science](#computer-science-1)
 
@@ -60,6 +66,8 @@ ___
 4. [웹 기초](#웹-기초)
 5. [디자인 패턴](#디자인-패턴)
 6. [JAVA](#java)
+
+___
 
 #### [+ 기타](#-기타-1)
 
