@@ -66,22 +66,28 @@ ___
 
 1. [Network](#network)
 2. [Database](#database)
-3. [운영체제](#운영체제)
-4. [웹 기초](#웹-기초)
-5. [디자인 패턴](#디자인-패턴)
+3. [OS](#os)
+4. [Data Structure](#data-structure)
+5. [Algorithm](#algorithm)
+
+#### [Methodology](#methodology-1)
+
+1. [Design Pattern](#design-pattern)
 
 #### [Programming Language](#programming-language-1)
 
 1. [JAVA](#java)
+2. [Javascript](#javascript)
+
+#### [Git](#git-1)
 
 ___
 
 #### [+ 기타](#-기타-1)
 
-1. [Github](#github)
-2. [취업 준비](#취업-준비)
-3. [밋업/세미나](#밋업세미나)
-4. [Editor/IDE](#editoride-1)
+1. [취업 준비](#취업-준비)
+2. [밋업/세미나](#밋업세미나)
+3. [Editor/IDE](#editoride-1)
 
 
 
