@@ -97,10 +97,14 @@ ___
 
 ## Tutorial
 
+### Tutorials
+
 - [부스트코스\] 웹 프로그래밍 > 1. 웹 프로그래밍 기초 : edwith](https://www.edwith.org/boostcourse-web/joinLectures/12952)
 - [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/)
 
+### Basis
 
+<br>
 
 ## Frontend
 
@@ -165,7 +169,7 @@ ___
 
 **개념**
 
-- [ ] [Grpahql 적용 시 고민해 볼 점 · Showerbugs](https://showerbugs.github.io/2018-04-20/Graphql-%EC%A0%81%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%A0-%EC%A0%90)
+- [x] [Grpahql 적용 시 고민해 볼 점 · Showerbugs](https://showerbugs.github.io/2018-04-20/Graphql-%EC%A0%81%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%A0-%EC%A0%90)
 - [ ] [Graphql과 RESTful API의 캐싱](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
 - [ ] [GraphQL과 RESTful API](https://www.holaxprogramming.com/2018/01/20/graphql-vs-restful-api/)
 - [x] :heart: [GraphQL을 오해하다](https://medium.com/@FourwingsY/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
