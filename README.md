@@ -54,7 +54,7 @@ ___
 
 #### [Message Queue](#message-queue-1)
 
-1. [Message Queue](#message-queue-2)
+1. [basis](#basis-2)
 2. [Kafka](#kafka)
 3. [RabbitMQ](#rabbitmq)
 
@@ -233,15 +233,11 @@ ___
 
 **사용법**
 
-
-
-#### [⬆️ 목차로](#목차)
-
-___
-
-# Message Queue
+<br>
 
 ## Message Queue
+
+#### Basis
 
 - [x] :heart: [[오픈소스] 메시지큐(Message Queue) 알아보기](https://12bme.tistory.com/176)
 - [x] [왜 메시지큐를 사용해야 하는가](https://earlybird.kr/1489) :kr:
@@ -250,7 +246,7 @@ ___
 
 <br>
 
-## Kafka
+#### Kafka
 
 **개념**
 
@@ -265,9 +261,9 @@ ___
 
 <br>
 
-## RabbitMQ
+#### RabbitMQ
 
-
+<br>
 
 ### [⬆️ 목차로](#목차)
 
