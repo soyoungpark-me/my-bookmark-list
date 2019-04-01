@@ -35,6 +35,7 @@
 1. [Operation](#operation)
 2. [Docker](#docker)
 3. [Jenkins](#jenkins)
+4. [AWS](#aws)
 
 ___
 
@@ -180,7 +181,57 @@ ___
 - [Getting Started with GraphQL and Spring Boot | Baeldung](https://www.baeldung.com/spring-graphql)
 - [Building a GraphQL Server with Java Backend Tutorial](https://www.howtographql.com/graphql-java/0-introduction/)
 
+<br>
 
+## DevOps
+
+### Operation
+
+- [ ] [개발환경을 한 방에! 쉘 스크립트의 힘 - 우아한형제들](http://woowabros.github.io/tools/2017/08/17/ost_bash.html)
+- [ ] [안정적인 서비스 운영](https://www.slideshare.net/cybaek/201403) 💻
+- [ ] [대용량 세션을 위한 로드밸런서 - NAVER d2](https://d2.naver.com/helloworld/605418)
+- [ ] [[NDC 18] 서버 디렉터가 직접 답했다, '듀랑고' 출시 초기 서버 문제의 원인](https://1boon.kakao.com/thisisgame/news001412)
+- [ ] [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html) : 길지만 하나씩 보자
+
+**Serverless**
+
+- [x] [서버리스(Serverless)가 온다! - ZDNet](http://www.zdnet.co.kr/view/?no=20160614172904)
+
+**테스트 및 분석**
+
+- [ ] [대용량 스트리밍 데이터 실시간 분석 - NAVER d2](https://d2.naver.com/helloworld/7731491)
+- [ ] [결제 시스템 성능, 부하, 스트레스 테스트 - 우아한형제들](http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html)
+
+<br>
+
+### Docker
+
+**개념**
+
+- [ ] [왜 굳이 도커(컨테이너)를 써야 하나요? - 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
+- [ ] [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/?fbclid=IwAR2wrU-GquhBgN6hcZkqjYa8-__zN1gZnHvM3LN1z4KwKn84A46_uY8WiUw)
+
+<br>
+
+### Jenkins
+
+**개념**
+
+**사용법**
+
+- [docker를 이용한 CI 구축 연습하기 (젠킨스, 슬랙)](https://jojoldu.tistory.com/139) : 작년에 시도했던 글이라 달라졌을 수도 있음
+
+<br>
+
+### AWS
+
+**Lambda**
+
+- [ ] [AWS Lambda를 이용한 이미지 썸네일 생성 개발 후기 - 당근마켓](https://medium.com/daangn/aws-lambda%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%8D%B8%EB%84%A4%EC%9D%BC-%EC%83%9D%EC%84%B1-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-acc278d49980)
+- [ ] [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/harrythegreat/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
+- [ ] [서비스 중단 없이 Amazon EKS로 옮긴 이야기 - VCNC](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
+
+<br>
 
 ### [:arrow_up: 목차로](#목차)
 
@@ -238,7 +289,7 @@ ___
 
 ## Message Queue
 
-#### Basis
+### Basis
 
 - [x] :heart: [[오픈소스] 메시지큐(Message Queue) 알아보기](https://12bme.tistory.com/176)
 - [x] [왜 메시지큐를 사용해야 하는가](https://earlybird.kr/1489) :kr:
@@ -247,7 +298,7 @@ ___
 
 <br>
 
-#### Kafka
+### Kafka
 
 **개념**
 
@@ -262,61 +313,11 @@ ___
 
 <br>
 
-#### RabbitMQ
+### RabbitMQ
 
 <br>
 
 ### [⬆️ 목차로](#목차)
-
-___
-
-# DevOps
-
-## Operation
-
-- [ ] [개발환경을 한 방에! 쉘 스크립트의 힘 - 우아한형제들](http://woowabros.github.io/tools/2017/08/17/ost_bash.html)
-- [ ] [안정적인 서비스 운영](https://www.slideshare.net/cybaek/201403) :computer:
-- [ ] [대용량 세션을 위한 로드밸런서 - NAVER d2](https://d2.naver.com/helloworld/605418)
-- [ ] [[NDC 18] 서버 디렉터가 직접 답했다, '듀랑고' 출시 초기 서버 문제의 원인](https://1boon.kakao.com/thisisgame/news001412)
-- [ ] [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html) : 길지만 하나씩 보자
-
-**Serverless**
-
-- [x] [서버리스(Serverless)가 온다! - ZDNet](http://www.zdnet.co.kr/view/?no=20160614172904)
-
-**테스트 및 분석**
-
-- [ ] [대용량 스트리밍 데이터 실시간 분석 - NAVER d2](https://d2.naver.com/helloworld/7731491)
-- [ ] [결제 시스템 성능, 부하, 스트레스 테스트 - 우아한형제들](http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html)
-
-<br>
-
-## Docker
-
-**개념**
-
-- [ ] [왜 굳이 도커(컨테이너)를 써야 하나요? - 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
-- [ ] [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/?fbclid=IwAR2wrU-GquhBgN6hcZkqjYa8-__zN1gZnHvM3LN1z4KwKn84A46_uY8WiUw)
-
-<br>
-
-## AWS
-
-**Lambda**
-
-- [ ] [AWS Lambda를 이용한 이미지 썸네일 생성 개발 후기 - 당근마켓](https://medium.com/daangn/aws-lambda%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%8D%B8%EB%84%A4%EC%9D%BC-%EC%83%9D%EC%84%B1-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-acc278d49980)
-- [ ] [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/harrythegreat/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
-- [ ] [서비스 중단 없이 Amazon EKS로 옮긴 이야기 - VCNC](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
-
-<br>
-
-## Jenkins
-
-**개념**
-
-**사용법**
-
-- [docker를 이용한 CI 구축 연습하기 (젠킨스, 슬랙)](https://jojoldu.tistory.com/139) : 작년에 시도했던 글이라 달라졌을 수도 있음
 
 ___
 
