@@ -321,9 +321,11 @@ ___
 
 ___
 
-# Computer Science
+# BASIS
 
-## Network
+## Computer Science
+
+### Network
 
 **통신**
 
@@ -356,7 +358,7 @@ ___
 
 <br>
 
-## Database
+### Database
 
 **구루비 강좌**
 
@@ -382,11 +384,17 @@ ___
 
 <br>
 
-## 운영체제
+### OS
 
 - [ ] [메모리 단편화(Memory Fragmentation)가 무엇이고 왜 발생하는가?](https://jeong-pro.tistory.com/91?category=793347)
 
 <br>
+
+### Data Structure
+
+<br>
+
+### Algorithm
 
 ## 웹 기초
 
