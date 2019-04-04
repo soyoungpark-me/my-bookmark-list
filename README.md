@@ -105,6 +105,37 @@ ___
 
 ### Basis
 
+**JWT**
+
+- [x] [[JWT] JSON Web Token 소개 및 구조 - VELOPERT](https://velopert.com/2389)
+- [x] [안전한 JWT 웹서비스 사용자 인증 구현하기](https://diokun.wordpress.com/2017/04/07/%EC%95%88%EC%A0%84%ED%95%9C-jwt-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
+- [x] ❤️ [JWT를 구현하면서 마주치게 되는 고민들](https://swalloow.github.io/implement-jwt)
+
+**CORS**
+
+- [x] [CORS, Preflight, 인증 처리 관련 삽질](https://www.popit.kr/cors-preflight-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC-%EA%B4%80%EB%A0%A8-%EC%82%BD%EC%A7%88/)
+- [x] [Access Control Allow Origin 오류 해결 방법](https://likelionwonho.github.io/web/javascript/Access-Control-Allow-Origin-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/)
+
+**보안**
+
+- [ ] [안전한 SSL/TLS를 운영하기 위해 알아야 하는 것들 - LINE](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
+- [ ] [커버로스 프로토콜(Kerberos Protocol) – 서버 접근 권한 관리](https://www.letmecompile.com/kerberos-protocol/)
+- [ ] [[서버 보안] 서버의 구성 및 인증(커버로스)](http://blog.naver.com/PostView.nhn?blogId=sol9501&logNo=70104706140)
+
+**브라우저**
+
+- [x] [웹 브라우저에서 HTML문서 렌더링 과정 (동작 순서)](https://jeong-pro.tistory.com/90?category=793347)
+- [ ] ❤️ [브라우저는 어떻게 동작하는가 - NAVER d2](https://d2.naver.com/helloworld/59361)
+- [ ] [[브라우저엔진] 브라우저 렌더링 엔진](https://12bme.tistory.com/208)
+
+**서버**
+
+- [ ] [WAS 와 웹 서버 차이 (WAS,Web Server) 그리고 아파치, 톰캣](https://jeong-pro.tistory.com/84?category=793347)
+- [ ] [Web - 쿠키와 세션의 차이, 용도, 사용법(cookie,session)](https://jeong-pro.tistory.com/80?category=793347)
+- [ ] [REST 기반의 간단한 분산 트랜잭션 구현](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-1%ED%8E%B8/?utm_source=popit&utm_campaign=notice)
+- [x] [[칼럼] IT내부 실패 단일점에 대해 알고 있는가?](http://www.zdnet.co.kr/view/?no=20101220174657)
+- [x] [실시간 서비스 경험기(배달운영시스템) - 우아한형제들](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
+
 <br>
 
 ## Frontend
@@ -396,40 +427,7 @@ ___
 
 ### Algorithm
 
-## 웹 기초
-
-**JWT**
-
-- [X] [[JWT] JSON Web Token 소개 및 구조 - VELOPERT](https://velopert.com/2389)
-- [X] [안전한 JWT 웹서비스 사용자 인증 구현하기](https://diokun.wordpress.com/2017/04/07/%EC%95%88%EC%A0%84%ED%95%9C-jwt-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
-- [x] ❤️ [JWT를 구현하면서 마주치게 되는 고민들](https://swalloow.github.io/implement-jwt)
-
-**CORS**
-
-- [x] [CORS, Preflight, 인증 처리 관련 삽질](https://www.popit.kr/cors-preflight-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC-%EA%B4%80%EB%A0%A8-%EC%82%BD%EC%A7%88/)
-- [x] [Access Control Allow Origin 오류 해결 방법](https://likelionwonho.github.io/web/javascript/Access-Control-Allow-Origin-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/)
-
-**보안**
-
-- [ ] [안전한 SSL/TLS를 운영하기 위해 알아야 하는 것들 - LINE](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
-- [ ] [커버로스 프로토콜(Kerberos Protocol) – 서버 접근 권한 관리](https://www.letmecompile.com/kerberos-protocol/)
-- [ ] [[서버 보안] 서버의 구성 및 인증(커버로스)](http://blog.naver.com/PostView.nhn?blogId=sol9501&logNo=70104706140)
-
-**브라우저**
-
-- [x] [웹 브라우저에서 HTML문서 렌더링 과정 (동작 순서)](https://jeong-pro.tistory.com/90?category=793347)
-- [ ] :heart: [브라우저는 어떻게 동작하는가 - NAVER d2](https://d2.naver.com/helloworld/59361)
-- [ ] [[브라우저엔진] 브라우저 렌더링 엔진](https://12bme.tistory.com/208)
-
-**서버**
-
-- [ ] [WAS 와 웹 서버 차이 (WAS,Web Server) 그리고 아파치, 톰캣](https://jeong-pro.tistory.com/84?category=793347)
-- [ ] [Web - 쿠키와 세션의 차이, 용도, 사용법(cookie,session)](https://jeong-pro.tistory.com/80?category=793347)
-- [ ] [REST 기반의 간단한 분산 트랜잭션 구현](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-1%ED%8E%B8/?utm_source=popit&utm_campaign=notice)
-- [x] [[칼럼] IT내부 실패 단일점에 대해 알고 있는가?](http://www.zdnet.co.kr/view/?no=20101220174657)
-- [x] [실시간 서비스 경험기(배달운영시스템) - 우아한형제들](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
-
-<br>
+___
 
 ## 디자인 패턴
 
