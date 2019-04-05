@@ -427,14 +427,22 @@ ___
 
 ### Algorithm
 
+<br>
+
+### [⬆️ 목차로](#목차)
+
 ___
 
-## 디자인 패턴
+## Methodology
+
+### Design Pattern
 
 - [ ] [싱글톤 패턴(Singleton pattern)을 쓰는 이유와 문제점](https://jeong-pro.tistory.com/86?category=793347)
 - [ ] [디자인 패턴 한 방에 정리하기](https://jeong-pro.tistory.com/98?category=793347)
 
 <br>
+
+### [⬆️ 목차로](#목차)
 
 ## JAVA
 
@@ -454,7 +462,7 @@ ___
 
 - [ ] [SQL Server 에게 String 이란? (NVARCHAR 인가 VARCHAR 인가) - 우아한형제들](http://woowabros.github.io/study/2019/01/25/sqlserver-jdbc-driver.html)
 
-
+<br>
 
 ### [⬆️ 목차로](#목차)
 
