@@ -82,6 +82,10 @@ ___
 
 #### [Git](#git-1)
 
+1. [Instructions](#instructions)
+2. [Github](#github)
+3. [Code Review](#code-review)
+
 ___
 
 #### [+ 기타](#-기타-1)
@@ -444,7 +448,9 @@ ___
 
 ### [⬆️ 목차로](#목차)
 
-## JAVA
+## Programming Language
+
+### JAVA
 
 - [ ] [객체 지향 프로그래밍이란?](https://jeong-pro.tistory.com/95?category=793347)
 - [ ] [JAVA 컬렉션 (Vector, ArrayList, LinkedList, Set, Map)](https://jeong-pro.tistory.com/87?category=793347)
@@ -464,23 +470,32 @@ ___
 
 <br>
 
+### Javascript
+
+<br>
+
 ### [⬆️ 목차로](#목차)
 
-___
+## Git
 
-# + 기타
+#### Instructions
 
-## Github
-
-- [ ] [GitHub Pull Request가 자동으로 close되는 경우는? - LINE](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
 - [ ] [훅으로 Git에 훅 들어가기 - 우아한형제들](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
 
-**코드 리뷰**
+#### Github
+
+- [ ] [GitHub Pull Request가 자동으로 close되는 경우는? - LINE](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
+
+#### **Code Review**
 
 - [ ] [효과적인 코드 리뷰를 위해서 - LINE](https://engineering.linecorp.com/ko/blog/effective-codereview/)
 - [ ] [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니? - KAKAO](http://tech.kakao.com/2016/02/04/code-review/)
 
 <br>
+
+___
+
+# + 기타
 
 ## 취업 준비
 
