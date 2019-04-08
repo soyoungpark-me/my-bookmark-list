@@ -1,4 +1,4 @@
-# 목적
+<h1 style="text-align: center">목적</h1>
 
 쌓여만 가는 크롬 북마크를 정리하기 위해 만든 레포지토리입니다!
 
@@ -10,7 +10,7 @@
 
 
 
-# 목차
+<h1 style="text-align: center">목차</h1>
 
 ## WEB
 
@@ -96,7 +96,7 @@ ___
 
 
 
-___
+<h1 style="text-align: center">본문</h1>
 
 # 웹 기술
 
