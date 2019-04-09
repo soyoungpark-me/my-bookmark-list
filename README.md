@@ -1,4 +1,4 @@
-<h1 style="text-align: center">목적</h1>
+# :green_heart: Goal
 
 쌓여만 가는 크롬 북마크를 정리하기 위해 만든 레포지토리입니다!
 
@@ -8,9 +8,11 @@
 - :hearts: : 인상 깊게 읽었던 문서 (또 읽어야 함)
 - :question: : 읽고도 어려워서 이해 못한 문서 (또 읽어야 함)
 
+<br>
 
+___
 
-<h1 style="text-align: center">목차</h1>
+# :green_heart: Table
 
 ## WEB
 
@@ -94,11 +96,15 @@ ___
 2. [밋업/세미나](#밋업세미나)
 3. [Editor/IDE](#editoride-1)
 
+<br>
 
+___
 
-<h1 style="text-align: center">본문</h1>
+# :green_heart: Contents
 
-# 웹 기술
+<br>
+
+# WEB
 
 ## Tutorial
 
@@ -126,12 +132,6 @@ ___
 - [ ] [커버로스 프로토콜(Kerberos Protocol) – 서버 접근 권한 관리](https://www.letmecompile.com/kerberos-protocol/)
 - [ ] [[서버 보안] 서버의 구성 및 인증(커버로스)](http://blog.naver.com/PostView.nhn?blogId=sol9501&logNo=70104706140)
 
-**브라우저**
-
-- [x] [웹 브라우저에서 HTML문서 렌더링 과정 (동작 순서)](https://jeong-pro.tistory.com/90?category=793347)
-- [ ] ❤️ [브라우저는 어떻게 동작하는가 - NAVER d2](https://d2.naver.com/helloworld/59361)
-- [ ] [[브라우저엔진] 브라우저 렌더링 엔진](https://12bme.tistory.com/208)
-
 **서버**
 
 - [ ] [WAS 와 웹 서버 차이 (WAS,Web Server) 그리고 아파치, 톰캣](https://jeong-pro.tistory.com/84?category=793347)
@@ -143,6 +143,14 @@ ___
 <br>
 
 ## Frontend
+
+### Browser
+
+- [x] [웹 브라우저에서 HTML문서 렌더링 과정 (동작 순서)](https://jeong-pro.tistory.com/90?category=793347)
+- [ ] ❤️ [브라우저는 어떻게 동작하는가 - NAVER d2](https://d2.naver.com/helloworld/59361)
+- [ ] [[브라우저엔진] 브라우저 렌더링 엔진](https://12bme.tistory.com/208)
+
+<br>
 
 ### React
 
