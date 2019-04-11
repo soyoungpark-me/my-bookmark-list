@@ -61,7 +61,7 @@ ___
 2. [Kafka](#kafka)
 3. [RabbitMQ](#rabbitmq)
 
-___
+## 
 
 ## BASIS
 
@@ -88,7 +88,7 @@ ___
 2. [Github](#github)
 3. [Code Review](#code-review)
 
-___
+##  
 
 #### [+ 기타](#-기타-1)
 
@@ -96,7 +96,7 @@ ___
 2. [밋업/세미나](#밋업세미나)
 3. [Editor/IDE](#editoride-1)
 
-<br>
+####  
 
 ___
 
