@@ -96,17 +96,13 @@ ___
 2. [밋업/세미나](#밋업세미나)
 3. [Editor/IDE](#editoride-1)
 
-####  
+<br>
 
 ___
 
 # :green_heart: Contents
 
-<br>
-
 # WEB
-
-___
 
 ## Tutorial
 
@@ -115,7 +111,7 @@ ___
 - [부스트코스\] 웹 프로그래밍 > 1. 웹 프로그래밍 기초 : edwith](https://www.edwith.org/boostcourse-web/joinLectures/12952)
 - [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/)
 
-<br>
+##  
 
 ### Basis
 
@@ -144,7 +140,7 @@ ___
 - [x] [[칼럼] IT내부 실패 단일점에 대해 알고 있는가?](http://www.zdnet.co.kr/view/?no=20101220174657)
 - [x] [실시간 서비스 경험기(배달운영시스템) - 우아한형제들](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
 
-<br>
+##  
 
 ### [⬆️ Table](#table)
 
@@ -158,7 +154,7 @@ ___
 - [ ] ❤️ [브라우저는 어떻게 동작하는가 - NAVER d2](https://d2.naver.com/helloworld/59361)
 - [ ] [[브라우저엔진] 브라우저 렌더링 엔진](https://12bme.tistory.com/208)
 
-<br>
+##  
 
 ### React
 
@@ -187,7 +183,7 @@ ___
 - [ ] [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) :us:
 - [ ] [리덕스 패턴과 안티 패턴 (Redux Patterns and Anti-Patterns)](https://www.vobour.com/%EB%A6%AC%EB%8D%95%EC%8A%A4-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%95%88%ED%8B%B0-%ED%8C%A8%ED%84%B4-redux-patterns-and-anti-p)
 
-<br>
+##  
 
 ### [⬆️ Table](#table)
 
@@ -204,7 +200,7 @@ ___
 - [ ] [DI(의존성 주입)가 필요한 이유와 Spring에서 Field Injection보다 Constructor Injection이 권장되는 이유](http://www.mimul.com/pebble/default/2018/03/30/1522386129211.html)
 - [ ] [Commons DBCP 이해하기 - NAVER d2](https://d2.naver.com/helloworld/5102792)
 
-<br>
+##  
 
 ### Node.js
 
@@ -219,7 +215,7 @@ ___
 
 - [네이티브 애드온으로 Node.js의 성능을 향상 시키는 방법](http://shiren.github.io/2016-02-18-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%95%A0%EB%93%9C%EC%98%A8%EC%9C%BC%EB%A1%9C-Node.js%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%84-%ED%96%A5%EC%83%81-%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95/) :kr:
 
-<br>
+##  
 
 ### GraphQL
 
@@ -236,7 +232,7 @@ ___
 - [Getting Started with GraphQL and Spring Boot | Baeldung](https://www.baeldung.com/spring-graphql)
 - [Building a GraphQL Server with Java Backend Tutorial](https://www.howtographql.com/graphql-java/0-introduction/)
 
-<br>
+##  
 
 ### [⬆️ Table](#table)
 
@@ -261,7 +257,7 @@ ___
 - [ ] [대용량 스트리밍 데이터 실시간 분석 - NAVER d2](https://d2.naver.com/helloworld/7731491)
 - [ ] [결제 시스템 성능, 부하, 스트레스 테스트 - 우아한형제들](http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html)
 
-<br>
+##  
 
 ### Docker
 
@@ -270,7 +266,7 @@ ___
 - [ ] [왜 굳이 도커(컨테이너)를 써야 하나요? - 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 - [ ] [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/?fbclid=IwAR2wrU-GquhBgN6hcZkqjYa8-__zN1gZnHvM3LN1z4KwKn84A46_uY8WiUw)
 
-<br>
+## 
 
 ### Jenkins
 
@@ -280,7 +276,7 @@ ___
 
 - [docker를 이용한 CI 구축 연습하기 (젠킨스, 슬랙)](https://jojoldu.tistory.com/139) : 작년에 시도했던 글이라 달라졌을 수도 있음
 
-<br>
+##  
 
 ### AWS
 
@@ -290,7 +286,7 @@ ___
 - [ ] [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/harrythegreat/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
 - [ ] [서비스 중단 없이 Amazon EKS로 옮긴 이야기 - VCNC](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
 
-<br>
+##  
 
 ### [⬆️ Table](#table)
 
@@ -304,7 +300,9 @@ ___
 
 ### OracleDB
 
-<br>
+##  
+
+### [⬆️ Table](#table)
 
 ___
 
@@ -315,11 +313,11 @@ ___
 - [x] [NoSQL 데이터베이스란? - AWS](https://aws.amazon.com/ko/nosql/)
 - [x] [블로그 | NoSQL 열풍에도 MySQL이 여전히 왕좌에 있는 이유](http://www.ciokorea.com/news/34129) :kr:
 
-<br>
+##  
 
 ### Redis
 
-<br>
+##  
 
 ### MongoDB
 
@@ -332,7 +330,7 @@ ___
 - [ ] [MongoDB Schema 디자인 하기](https://blog.outsider.ne.kr/655)
 - [ ] [MongoDB 스키마 디자인을 위한 6가지 규칙 요약](https://edykim.com/ko/post/summary-of-six-rules-for-designing-a-mongodb-schema/)
 
-<br>
+##  
 
 ### Elasticsearch
 
@@ -342,7 +340,10 @@ ___
 - [ ] [ElasticSearch 에서 null 과 empty string 의 차이](https://findstar.pe.kr/2018/01/24/difference-between-null-and-empty-string-elasticsearch/)
 
 **사용법**
-<br>
+
+##  
+
+### [⬆️ Table](#table)
 
 ___
 
@@ -355,7 +356,7 @@ ___
 - [ ] [MQTT 적용을 통한 중계시스템 개선 - 우아한형제들](http://woowabros.github.io/experience/2017/08/11/ost_mqtt_broker.html)
 - [ ] [MQTT Stress Test - 우아한형제들](http://woowabros.github.io/experience/2017/08/28/mqtt_stress_test.html)
 
-<br>
+##  
 
 ### Kafka
 
@@ -370,11 +371,11 @@ ___
 - [x] [Kafka 와 Confluent Schema Registry 를 사용한 스키마 관리](https://medium.com/@gaemi/kafka-%EC%99%80-confluent-schema-registry-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%8A%A4%ED%82%A4%EB%A7%88-%EA%B4%80%EB%A6%AC-1-cdf8c99d2c5c)
 - [x] [Thrift vs Protocol Buffers vs Avro - Biased Comparison](https://www.slideshare.net/IgorAnishchenko/pb-vs-thrift-vs-avro) :computer:
 
-<br>
+##  
 
 ### RabbitMQ
 
-<br>
+##  
 
 ### [⬆️ 목차로](#목차)
 
@@ -415,7 +416,7 @@ ___
 - [ ] [포워드 프록시(forward proxy) 리버스 프록시(reverse proxy) 의 차이](https://www.lesstif.com/pages/viewpage.action?pageId=21430345)
 - [ ] [nginx에서 리버스 프록시 사용하기](https://akal.co.kr/?p=1173)
 
-<br>
+##  
 
 ### Database
 
@@ -441,21 +442,21 @@ ___
 - [X] [DBMS는 어떻게 트랜잭션을 관리할까? - NAVER d2](https://d2.naver.com/helloworld/407507)
 - [X] [데이터베이스 - Exclusive lock과 Shared lock의 차이](https://jeong-pro.tistory.com/94?category=793347)
 
-<br>
+##  
 
 ### OS
 
 - [ ] [메모리 단편화(Memory Fragmentation)가 무엇이고 왜 발생하는가?](https://jeong-pro.tistory.com/91?category=793347)
 
-<br>
+##  
 
 ### Data Structure
 
-<br>
+##  
 
 ### Algorithm
 
-<br>
+##  
 
 ### [⬆️ 목차로](#목차)
 
@@ -468,9 +469,11 @@ ___
 - [ ] [싱글톤 패턴(Singleton pattern)을 쓰는 이유와 문제점](https://jeong-pro.tistory.com/86?category=793347)
 - [ ] [디자인 패턴 한 방에 정리하기](https://jeong-pro.tistory.com/98?category=793347)
 
-<br>
+##  
 
 ### [⬆️ 목차로](#목차)
+
+___
 
 ## Programming Language
 
@@ -492,13 +495,15 @@ ___
 
 - [ ] [SQL Server 에게 String 이란? (NVARCHAR 인가 VARCHAR 인가) - 우아한형제들](http://woowabros.github.io/study/2019/01/25/sqlserver-jdbc-driver.html)
 
-<br>
+##  
 
 ### Javascript
 
-<br>
+##  
 
 ### [⬆️ 목차로](#목차)
+
+___
 
 ## Git
 
@@ -515,7 +520,9 @@ ___
 - [ ] [효과적인 코드 리뷰를 위해서 - LINE](https://engineering.linecorp.com/ko/blog/effective-codereview/)
 - [ ] [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니? - KAKAO](http://tech.kakao.com/2016/02/04/code-review/)
 
-<br>
+##  
+
+### [⬆️ Table](#table)
 
 ___
 
@@ -531,15 +538,14 @@ ___
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [React 인터뷰 질문 모음 번역](https://github.com/appear/reactjs-interview-questions-ko#is-it-good-to-use-setstate-in-componentwillmount-method)
 
-<br>
-
+## 
 
 ## 밋업/세미나
 
 - [Festa](https://festa.io/)
 - [양재동 코드랩](https://www.codelabs.kr/codelabs/list)
 
-<br>
+##  
 
 ## Editor/IDE
 
