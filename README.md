@@ -76,6 +76,7 @@ ___
 #### [Methodology](#methodology-1)
 
 1. [Design Pattern](#design-pattern)
+2. [Driven Development](#driven-development)
 
 #### [Programming Language](#programming-language-1)
 
@@ -138,7 +139,6 @@ ___
 - [ ] [Web - 쿠키와 세션의 차이, 용도, 사용법(cookie,session)](https://jeong-pro.tistory.com/80?category=793347)
 - [ ] [REST 기반의 간단한 분산 트랜잭션 구현](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-1%ED%8E%B8/?utm_source=popit&utm_campaign=notice)
 - [x] [[칼럼] IT내부 실패 단일점에 대해 알고 있는가?](http://www.zdnet.co.kr/view/?no=20101220174657)
-- [x] [실시간 서비스 경험기(배달운영시스템) - 우아한형제들](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
 
 ##  
 
@@ -190,6 +190,9 @@ ___
 ___
 
 ## Backend
+
+- [x] [실시간 서비스 경험기(배달운영시스템) - 우아한형제들](http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
+- [ ] [게임 서버 개발과 웹 서버 개발의 차이](https://elky84.github.io/2019/03/17/game_server_develop_difference_web_server_develop/?fbclid=IwAR34sTWE2JWYBroqu1Gp2Z1Rn7Y_As_qTOxdDJIZHcrrPmei9pk2wQviYwY)
 
 ### Spring/Spring Boot
 
@@ -377,7 +380,7 @@ ___
 
 ##  
 
-### [⬆️ 목차로](#목차)
+### [⬆️ Table](#table)
 
 ___
 
@@ -458,7 +461,7 @@ ___
 
 ##  
 
-### [⬆️ 목차로](#목차)
+### [⬆️ Table](#table)
 
 ___
 
@@ -471,7 +474,17 @@ ___
 
 ##  
 
-### [⬆️ 목차로](#목차)
+### Driven Development
+
+**TDD**
+
+- [ ] ["TDD 실천법과 도구" 책 전체 PDF](https://repo.yona.io/doortts/blog/issue/1?fbclid=IwAR20ZZG-_o1jYyFVSeGrNgROLq24qMwZ6MhZnB6cT7NL5blfWGsUSVp3kcU)
+
+**DDD**
+
+
+
+### [⬆️ Table](#table)
 
 ___
 
@@ -501,7 +514,7 @@ ___
 
 ##  
 
-### [⬆️ 목차로](#목차)
+### [⬆️ Table](#table)
 
 ___
 
@@ -531,12 +544,14 @@ ___
 ## 취업 준비
 
 - [ ] [우리가 부르는 시니어 개발자는 누구인가? - 우아한형제들](http://woowabros.github.io/woowabros/2017/07/03/senior.html)
+- [ ] [후배 개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4?fbclid=IwAR238nhl6f2mO00EIGLjKq9aTl8Rpf64NdeJWRG90CHK97RZ6oXgYBpOZGI)
 
 **Interviews**
 
 - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [React 인터뷰 질문 모음 번역](https://github.com/appear/reactjs-interview-questions-ko#is-it-good-to-use-setstate-in-componentwillmount-method)
+- [Vue 인터뷰 질문 모음 번역](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md?fbclid=IwAR3wfErVaLB9ftmhAKE10u1EFDltsNB5BiBQJcXPbW1joZI3H0GkJL4nMv4)
 
 ## 
 
@@ -555,4 +570,4 @@ ___
 
 
 
-### [⬆️ 목차로](#목차)
+### [⬆️ Table](#table)
