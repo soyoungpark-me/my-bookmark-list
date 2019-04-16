@@ -153,6 +153,7 @@ ___
 - [x] [웹 브라우저에서 HTML문서 렌더링 과정 (동작 순서)](https://jeong-pro.tistory.com/90?category=793347)
 - [ ] ❤️ [브라우저는 어떻게 동작하는가 - NAVER d2](https://d2.naver.com/helloworld/59361)
 - [ ] [[브라우저엔진] 브라우저 렌더링 엔진](https://12bme.tistory.com/208)
+- [ ] [최신 브라우저의 내부 살펴보기 - NAVER d2](https://d2.naver.com/helloworld/2922312?fbclid=IwAR0MFjs1-yF57Frum18Gwo3P8NR09IekeqvBzJLb5_Dh3b2gWaWUTkIvx1k)
 
 ##  
 
@@ -479,8 +480,11 @@ ___
 **TDD**
 
 - [ ] ["TDD 실천법과 도구" 책 전체 PDF](https://repo.yona.io/doortts/blog/issue/1?fbclid=IwAR20ZZG-_o1jYyFVSeGrNgROLq24qMwZ6MhZnB6cT7NL5blfWGsUSVp3kcU)
+- [ ] [TDD 해보니까 어때?](https://sehun-kim.github.io/sehun/tdd-paircoding1/?fbclid=IwAR0Tw2oOyUJqiIUA9xYMiT9Kj437UuQNoLipLyNTyJF_UN0KLJfkHqnA-Aw)
 
 **DDD**
+
+- [ ] [필요한 내용만 추려서 DDD 당장 써먹기 | Popit](https://www.popit.kr/%ED%95%84%EC%9A%94%ED%95%9C-%EB%82%B4%EC%9A%A9%EB%A7%8C-%EC%B6%94%EB%A0%A4%EC%84%9C-ddd-%EB%8B%B9%EC%9E%A5-%EC%8D%A8%EB%A8%B9%EA%B8%B0/?fbclid=IwAR3b_SJLUmCq0X5DOnPIRxZFA-Z56cr5Vs4WaQ0fKCln9gtu4gFn4C1c5qM)
 
 
 
@@ -498,6 +502,9 @@ ___
 - [ ] [JAVA 인터페이스와 추상클래스 공통점, 차이점 정리](https://jeong-pro.tistory.com/82?category=793347)
 - [ ] [LINE의 OpenJDK 적용기](https://engineering.linecorp.com/ko/blog/line-open-jdk/)
 
+**메모리**
+
+- [ ] [Java 프로그래밍: Out Of Memory 오류](http://www.nextree.co.kr/p3878/)
 
 **빌드 도구**
 
@@ -532,6 +539,7 @@ ___
 
 - [ ] [효과적인 코드 리뷰를 위해서 - LINE](https://engineering.linecorp.com/ko/blog/effective-codereview/)
 - [ ] [카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니? - KAKAO](http://tech.kakao.com/2016/02/04/code-review/)
+- [ ] [코드 리뷰를 위한 좋은 코딩 - Javascript 편](https://amati.io/2019/04/18/good-coding-for-codereview-on-javascript/?fbclid=IwAR3Ku68WDoIHQSwkEvt2co1oBGA7Y8R-W4M-0qRkNuW15AU_HgSNJS3iQmI)
 
 ##  
 
@@ -544,7 +552,8 @@ ___
 ## 취업 준비
 
 - [ ] [우리가 부르는 시니어 개발자는 누구인가? - 우아한형제들](http://woowabros.github.io/woowabros/2017/07/03/senior.html)
-- [ ] [후배 개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4?fbclid=IwAR238nhl6f2mO00EIGLjKq9aTl8Rpf64NdeJWRG90CHK97RZ6oXgYBpOZGI)
+- [x] :heart: [후배 개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4?fbclid=IwAR238nhl6f2mO00EIGLjKq9aTl8Rpf64NdeJWRG90CHK97RZ6oXgYBpOZGI)
+- [ ] [생각하가, 객체지향처럼 - 우아한형제들](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html?fbclid=IwAR25TB13OACz9Knwf-xhvWk-IyFfVup3__RpOcriO5QRRE8KKUYjlgsEoWg)
 
 **Interviews**
 
