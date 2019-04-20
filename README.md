@@ -404,7 +404,7 @@ ___
 
 **HTTP/HTTPS**
 
-- [ ] [HTTP 함수 - Post vs Put vs Patch](https://goodgid.github.io/HTTP-Method-Post-vs-Put-vs-Patch/)
+- [x] [HTTP 함수 - Post vs Put vs Patch](https://goodgid.github.io/HTTP-Method-Post-vs-Put-vs-Patch/)
 - [ ] [HTTP/3 explained](https://http3-explained.haxx.se/ko/) :kr: : 엄청 길다
 - [ ] [HTTPS와 SSL 인증서 - 생활코딩](https://opentutorials.org/course/228/4894)
 - [ ] [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
