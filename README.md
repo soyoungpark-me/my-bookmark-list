@@ -502,8 +502,8 @@ ___
 - [ ] [제네릭(Generic)에 대한 모든 것](https://jeong-pro.tistory.com/100?category=793347)
 - [ ] [JAVA 인터페이스와 추상클래스 공통점, 차이점 정리](https://jeong-pro.tistory.com/82?category=793347)
 - [ ] [LINE의 OpenJDK 적용기](https://engineering.linecorp.com/ko/blog/line-open-jdk/)
-- [ ] [Java 예외(Exception) 처리에 대한 작은 생각](http://www.nextree.co.kr/p3239/)
-- [ ] :computer: [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829)
+- [x] [Java 예외(Exception) 처리에 대한 작은 생각](http://www.nextree.co.kr/p3239/)
+- [x] :computer: [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829)
 
 **메모리**
 
