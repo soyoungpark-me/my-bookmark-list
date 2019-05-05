@@ -533,6 +533,7 @@ ___
 #### Instructions
 
 - [ ] [훅으로 Git에 훅 들어가기 - 우아한형제들](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
+- [ ] [Advanced Git Tutorials - Atlassian](https://ko.atlassian.com/git/tutorials/advanced-overview)
 
 #### Github
 
