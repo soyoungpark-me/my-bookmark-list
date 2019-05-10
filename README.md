@@ -499,7 +499,7 @@ ___
 
 - [ ] :heart: [스프링보다 중요한 스프링 이야기](https://www.slideshare.net/gyumee/ss-47343256)
 - [ ] [객체 지향 프로그래밍이란?](https://jeong-pro.tistory.com/95?category=793347)
-- [ ] [JAVA 컬렉션 (Vector, ArrayList, LinkedList, Set, Map)](https://jeong-pro.tistory.com/87?category=793347)
+- [x] [JAVA 컬렉션 (Vector, ArrayList, LinkedList, Set, Map)](https://jeong-pro.tistory.com/87?category=793347)
 - [ ] [제네릭(Generic)에 대한 모든 것](https://jeong-pro.tistory.com/100?category=793347)
 - [ ] [JAVA 인터페이스와 추상클래스 공통점, 차이점 정리](https://jeong-pro.tistory.com/82?category=793347)
 - [ ] [LINE의 OpenJDK 적용기](https://engineering.linecorp.com/ko/blog/line-open-jdk/)
