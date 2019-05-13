@@ -222,7 +222,7 @@ ___
 
 **개념**
 - [x] [빠르게 서비스를 개발할 수 있는 Node.js - NAVER d2](https://d2.naver.com/helloworld/4994500)
-- [ ] :kr: [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop)
+- [ ] [Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop) :kr:
 - [ ] [[JAVA vs Node.js] 무엇을 사용해야할까?](https://danielpark.net/183)
 - [ ] [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html) :kr:
 - [ ] [require는 어떻게 동작할까?](https://jongmin92.github.io/2017/07/13/Node/require/)
