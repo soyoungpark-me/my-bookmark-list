@@ -163,7 +163,7 @@ ___
 
 - [x] [웹 브라우저에서 HTML문서 렌더링 과정 (동작 순서)](https://jeong-pro.tistory.com/90?category=793347)
 - [ ] ❤️ [브라우저는 어떻게 동작하는가 - NAVER d2](https://d2.naver.com/helloworld/59361)
-- [ ] [[브라우저엔진] 브라우저 렌더링 엔진](https://12bme.tistory.com/208)
+- [ ] [[브라우저 엔진] 브라우저 렌더링 엔진](https://12bme.tistory.com/208)
 - [ ] [최신 브라우저의 내부 살펴보기 - NAVER d2](https://d2.naver.com/helloworld/2922312?fbclid=IwAR0MFjs1-yF57Frum18Gwo3P8NR09IekeqvBzJLb5_Dh3b2gWaWUTkIvx1k)
 
 ##  
@@ -263,6 +263,10 @@ ___
 - [ ] [대용량 세션을 위한 로드밸런서 - NAVER d2](https://d2.naver.com/helloworld/605418)
 - [ ] [[NDC 18] 서버 디렉터가 직접 답했다, '듀랑고' 출시 초기 서버 문제의 원인](https://1boon.kakao.com/thisisgame/news001412)
 - [ ] [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html) : 길지만 하나씩 보자
+
+**MSA**
+
+- [ ] [마이크로 서비스 관련 글 총정리](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B4%80%EB%A0%A8-%EA%B8%80-%EC%B4%9D%EC%A0%95%EB%A6%AC/) : 짱 많음...
 
 **Serverless**
 
