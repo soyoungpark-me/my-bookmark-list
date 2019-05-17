@@ -549,6 +549,7 @@ ___
 
 - [ ] [훅으로 Git에 훅 들어가기 - 우아한형제들](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
 - [ ] [Advanced Git Tutorials - Atlassian](https://ko.atlassian.com/git/tutorials/advanced-overview)
+- [ ] [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/?fbclid=IwAR28UIjRebVnyBcgSA2NcIznK_7czMvaaB_iwysu1bC4Wj6dzWiDsfp_zG4)
 
 #### Github
 
