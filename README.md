@@ -280,7 +280,9 @@ ___
 **개념**
 
 - [ ] [왜 굳이 도커(컨테이너)를 써야 하나요? - 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
+- [ ] [개발자가 처음 Docker 접할때 오는 멘붕 몇가지](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-docker-%EC%A0%91%ED%95%A0%EB%95%8C-%EC%98%A4%EB%8A%94-%EB%A9%98%EB%B6%95-%EB%AA%87%EA%B0%80%EC%A7%80/)
 - [ ] [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/?fbclid=IwAR2wrU-GquhBgN6hcZkqjYa8-__zN1gZnHvM3LN1z4KwKn84A46_uY8WiUw)
+- [ ] [구글이 만든 Docker Container Orchestration 툴, Kubernetes 소개](https://www.popit.kr/kubernetes-introduction/)
 
 ## 
 
