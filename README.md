@@ -539,6 +539,10 @@ ___
 
 - [ ] [SQL Server 에게 String 이란? (NVARCHAR 인가 VARCHAR 인가) - 우아한형제들](http://woowabros.github.io/study/2019/01/25/sqlserver-jdbc-driver.html)
 
+**Java8**
+
+- [ ] [자바 람다식 java Consumer , Supplier, Function 함수적 인터페이스](https://altongmon.tistory.com/245)
+
 ##  
 
 ### Javascript
