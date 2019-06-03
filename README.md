@@ -226,6 +226,7 @@ ___
 - [ ] [[JAVA vs Node.js] 무엇을 사용해야할까?](https://danielpark.net/183)
 - [ ] [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html) :kr:
 - [ ] [require는 어떻게 동작할까?](https://jongmin92.github.io/2017/07/13/Node/require/)
+- [ ] [PM2를 활용한 Node.js 무중단 서비스하기 - LINE](https://engineering.linecorp.com/ko/blog/pm2-nodejs/?fbclid=IwAR06XW37jc2tuUlsg20XLDAw8t5v1dUR1bZKLjN1VKyRdklzeoCPlJlRBug)
 
 **활용**
 
