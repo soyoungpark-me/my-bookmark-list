@@ -580,12 +580,13 @@ ___
 
 # + 기타
 
-## 취업 준비
+## 좋은 글
 
 - [x] [우리가 부르는 시니어 개발자는 누구인가? - 우아한형제들](http://woowabros.github.io/woowabros/2017/07/03/senior.html)
 - [x] :heart: [후배 개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4?fbclid=IwAR238nhl6f2mO00EIGLjKq9aTl8Rpf64NdeJWRG90CHK97RZ6oXgYBpOZGI)
 - [ ] :heart: [흔하지 않고 좋은 웹 개발자가 되는 방법](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 - [ ] [생각하라, 객체지향처럼 - 우아한형제들](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html?fbclid=IwAR25TB13OACz9Knwf-xhvWk-IyFfVup3__RpOcriO5QRRE8KKUYjlgsEoWg)
+- [ ] [입사 후, 벌써 1년 - 우아한형제들](http://woowabros.github.io/experience/2019/05/30/settle-history.html?fbclid=IwAR252bcssrOMc8zQ2f95SgOfswNtdwZEtlEncNn2lREPZJF09MbjzOIGlJE)
 
 **Interviews**
 
