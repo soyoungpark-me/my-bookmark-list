@@ -528,7 +528,8 @@ ___
 **메모리**
 
 - [x] :question: [Java 프로그래밍: Out Of Memory 오류](http://www.nextree.co.kr/p3878/)
-- [ ] [자바, 성능, 모니터링 테크세미나 정리 및 후기 (by 우아한 형제들)](https://taetaetae.github.io/2019/05/12/got-of-java-seminar/)
+- [ ] [자바, 성능, 모니터링 테크세미나 정리 및 후기 - 우아한형제들](https://taetaetae.github.io/2019/05/12/got-of-java-seminar/)
+- [ ] [도움이 될수도 있는 JVM Memory leak 이야기 - 우아한형제들](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
 
 **빌드 도구**
 
