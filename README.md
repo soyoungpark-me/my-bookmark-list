@@ -549,6 +549,8 @@ ___
 
 ### Javascript
 
+- [ ] :heart: [2019년과 이후 JavaScript의 동향 - JavaScript(ECMAScript) - Naver D2](https://d2.naver.com/helloworld/4007447)
+
 ##  
 
 ### [⬆️ Table](#table)
