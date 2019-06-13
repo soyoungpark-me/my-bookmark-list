@@ -525,6 +525,7 @@ ___
 - [x] [Java 예외(Exception) 처리에 대한 작은 생각](http://www.nextree.co.kr/p3239/)
 - [ ] :computer: [예외처리가이드](https://www.slideshare.net/dhrim/ss-2804901)
 - [x] [JavaDoc을 쓰기 위한 주석 달기 방법](https://6kkki.tistory.com/1)
+- [ ] [Lombok 사용상 주의점(Pitfall)](http://kwonnam.pe.kr/wiki/java/lombok/pitfall)
 
 **메모리**
 
