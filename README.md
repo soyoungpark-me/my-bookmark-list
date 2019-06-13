@@ -16,9 +16,9 @@ ___
 
 좋은 페이지를 추가해주신 분입니다! 좋은 글이 있으면 마구마구 추가해주세요 :smile:
 
-| <a href="https://github.com/3457soso"><img src="https://avatars2.githubusercontent.com/u/17778171?s=460&v=4" width="100px" height="100px"/></a> | <a href="https://github.com/Crazy0416"><img src="https://avatars2.githubusercontent.com/u/19185689?s=460&v=4" width="100px" height="100px"/></a>     |
-| ------------------------------------------------------------ | ---- |
-| **Soyoung Park**                                              | **Minho Kim**     |
+| <a href="https://github.com/3457soso"><img src="https://avatars2.githubusercontent.com/u/17778171?s=460&v=4" width="100px" height="100px"/></a> | <a href="https://github.com/Crazy0416"><img src="https://avatars2.githubusercontent.com/u/19185689?s=460&v=4" width="100px" height="100px"/></a>     | <a href="https://github.com/Ryulth"><img src="https://avatars0.githubusercontent.com/u/32893340?s=460&v=4" width="100px" height="100px"/></a>     |
+| ------------------------------------------------------------ | ---- | ---- |
+| **Soyoung Park**                                              | **Minho Kim**     | **Ryulth**     |
 <br>
 
 ___
