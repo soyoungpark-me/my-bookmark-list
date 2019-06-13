@@ -215,6 +215,8 @@ ___
 - [ ] [DI(의존성 주입)가 필요한 이유와 Spring에서 Field Injection보다 Constructor Injection이 권장되는 이유](http://www.mimul.com/pebble/default/2018/03/30/1522386129211.html)
 - [ ] [Commons DBCP 이해하기 - NAVER d2](https://d2.naver.com/helloworld/5102792)
 - [ ] [Entity, DTO, 그 사이의 ModelMapper 이야기](https://medium.com/@yongkyu.jang/entity-dto-%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-modelmapper-%EC%9D%B4%EC%95%BC%EA%B8%B0-94f163071add)
+- [ ] ❤️ [[스프링] 스프링이란 무엇인가?](https://12bme.tistory.com/157)
+- [ ] [응? 이게 왜 롤백되는거지? - 우아한형제들](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html)
 
 ##  
 
@@ -526,6 +528,7 @@ ___
 - [ ] :computer: [예외처리가이드](https://www.slideshare.net/dhrim/ss-2804901)
 - [x] [JavaDoc을 쓰기 위한 주석 달기 방법](https://6kkki.tistory.com/1)
 - [ ] [Lombok 사용상 주의점(Pitfall)](http://kwonnam.pe.kr/wiki/java/lombok/pitfall)
+- [ ] [Anti-OOP : if 를 피하고 싶어서](http://redutan.github.io/2016/03/31/anti-oop-if)
 
 **메모리**
 
