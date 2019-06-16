@@ -210,13 +210,17 @@ ___
 
 **개념**
 
+- [ ] ❤️ [[스프링] 스프링이란 무엇인가?](https://12bme.tistory.com/157)
 - [ ] [Spring MVC 구조의 처리 과정](https://jeong-pro.tistory.com/96?category=793347)
 - [ ] [스프링의 DI 패턴 (좋은 예, 나쁜 예)](https://kinbiko.com/java/dependency-injection-patterns/)
 - [ ] [DI(의존성 주입)가 필요한 이유와 Spring에서 Field Injection보다 Constructor Injection이 권장되는 이유](http://www.mimul.com/pebble/default/2018/03/30/1522386129211.html)
 - [ ] [Commons DBCP 이해하기 - NAVER d2](https://d2.naver.com/helloworld/5102792)
 - [ ] [Entity, DTO, 그 사이의 ModelMapper 이야기](https://medium.com/@yongkyu.jang/entity-dto-%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-modelmapper-%EC%9D%B4%EC%95%BC%EA%B8%B0-94f163071add)
-- [ ] ❤️ [[스프링] 스프링이란 무엇인가?](https://12bme.tistory.com/157)
 - [ ] [응? 이게 왜 롤백되는거지? - 우아한형제들](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html)
+
+- **활용**
+
+= [VsCode로 SpringBoot 개발 환경 설정하기](http://blog.leekyoungil.com/?p=479&fbclid=IwAR2l_XTnDnldMkRTIILNyfomoFCgfK2NXvpAQNzq0WaLfz8ebb35Dus-L0Q)
 
 ##  
 
