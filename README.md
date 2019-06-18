@@ -544,6 +544,7 @@ ___
 
 - [x] [[프로그래밍 지식] 빌드 도구 : Ant, Maven, Gradle 이 뭘까?](https://jj-one-a-week.blogspot.com/2017/05/ant-maven-gradle.html)
 - [ ] [[Gradle] 구글은 왜 그레이들을 채택했을까](https://brunch.co.kr/@yudong/67)
+- [ ] [Maven 정복](https://wikidocs.net/book/1910)
 
 **JDBC**
 
