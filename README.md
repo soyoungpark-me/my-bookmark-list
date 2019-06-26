@@ -220,7 +220,8 @@ ___
 
 - **활용**
 
-= [VsCode로 SpringBoot 개발 환경 설정하기](http://blog.leekyoungil.com/?p=479&fbclid=IwAR2l_XTnDnldMkRTIILNyfomoFCgfK2NXvpAQNzq0WaLfz8ebb35Dus-L0Q)
+- [VsCode로 SpringBoot 개발 환경 설정하기](http://blog.leekyoungil.com/?p=479&fbclid=IwAR2l_XTnDnldMkRTIILNyfomoFCgfK2NXvpAQNzq0WaLfz8ebb35Dus-L0Q)
+- :computer: [스프링 시큐리티로 시작하는 웹 어플리케이션 보안](https://www.slideshare.net/placebo2me/ss-58512601)
 
 ##  
 
