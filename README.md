@@ -395,8 +395,9 @@ ___
 **개념**
 
 - [ ] [Kafka 이해하기 - 카프카의 구성요소, 동작원리, Exactly-delivery-once 모델 차용](https://medium.com/@umanking/%EC%B9%B4%ED%94%84%EC%B9%B4%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%95%98%EA%B8%B0%EC%A0%84%EC%97%90-%EB%A8%BC%EC%A0%80-data%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%B4%EB%B3%B4%EC%9E%90-d2e3ca2f3c2)
-- [x] [Kafka 생태계 들여다보기](https://speakerdeck.com/dongjin/kafka-ecosystem-explained) :computer:
+- [x] :computer: [Kafka 생태계 들여다보기](https://speakerdeck.com/dongjin/kafka-ecosystem-explained)
 - [ ] [Kafka 면접 질문](https://koocci.github.io/kafka/2018/05/09/KAFKA2.html)
+- [ ] [Kafka 운영자가 말하는 TIP](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-tip/) : 순서대로 읽어보기
 
 **Avro와 Schema Registry**
 
