@@ -603,6 +603,7 @@ ___
 - [ ] :heart: [흔하지 않고 좋은 웹 개발자가 되는 방법](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 - [ ] [생각하라, 객체지향처럼 - 우아한형제들](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html?fbclid=IwAR25TB13OACz9Knwf-xhvWk-IyFfVup3__RpOcriO5QRRE8KKUYjlgsEoWg)
 - [ ] [입사 후, 벌써 1년 - 우아한형제들](http://woowabros.github.io/experience/2019/05/30/settle-history.html?fbclid=IwAR252bcssrOMc8zQ2f95SgOfswNtdwZEtlEncNn2lREPZJF09MbjzOIGlJE)
+- [ ] [패러다임, 디자인 패턴, 리팩터링의 중요성 그리고 성능에 대해](https://okky.kr/article/559243)
 
 **Interviews**
 
