@@ -1,5 +1,3 @@
-# :green_heart: Goal
-
 쌓여만 가는 크롬 북마크를 정리하기 위해 만든 레포지토리입니다!
 
 - :us: : 영어 문서
@@ -9,21 +7,7 @@
 - :question: : 읽고도 어려워서 이해 못한 문서 (또 읽어야 함)
 
 <br>
-
 ___
-
-# 💚 Contributor
-
-좋은 페이지를 추가해주신 분입니다! 좋은 글이 있으면 마구마구 추가해주세요 :smile:
-
-| <a href="https://github.com/3457soso"><img src="https://avatars2.githubusercontent.com/u/17778171?s=460&v=4" width="100px" height="100px"/></a> | <a href="https://github.com/Crazy0416"><img src="https://avatars2.githubusercontent.com/u/19185689?s=460&v=4" width="100px" height="100px"/></a>     | <a href="https://github.com/Ryulth"><img src="https://avatars0.githubusercontent.com/u/32893340?s=460&v=4" width="100px" height="100px"/></a>     |
-| ------------------------------------------------------------ | ---- | ---- |
-| **Soyoung Park**                                              | **Minho Kim**     | **Ryulth**     |
-<br>
-
-___
-
-# :green_heart: Table
 
 ## WEB
 
@@ -105,8 +89,6 @@ ___
 #### [+ 기타](#-기타-1)
 
 1. [취업 준비](#취업-준비)
-2. [밋업/세미나](#밋업세미나)
-3. [Editor/IDE](#editoride-1)
 
 <br>
 
@@ -180,6 +162,7 @@ ___
 - [X] [React state가 불변이어야 하는 이유](https://medium.com/@ljs0705/react-state%EA%B0%80-%EB%B6%88%EB%B3%80%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-ec2bf09c1021)
 - [X] :heart: [react-tutorial 고급 (불변성 - Immutability 개념)](https://blog.naver.com/PostView.nhn?blogId=backsajang420&logNo=221358585106&categoryNo=85&parentCategoryNo=0)
 - [x] [Introducing React Hooks](https://john015.github.io/introducing-react-hooks)
+- [ ] [웹팩 핸드북 - 웹팩을 가장 쉽고 빠르게 배우는 방법](https://joshua1988.github.io/webpack-guide/guide.html)
 
 **Redux와 Mobx**
 
@@ -234,6 +217,7 @@ ___
 - [ ] [Node.js Stream 당신이 알아야할 모든 것](http://blog.jeonghwan.net/node/2017/07/03/node-stream-you-need-to-know.html) :kr:
 - [ ] [require는 어떻게 동작할까?](https://jongmin92.github.io/2017/07/13/Node/require/)
 - [ ] [PM2를 활용한 Node.js 무중단 서비스하기 - LINE](https://engineering.linecorp.com/ko/blog/pm2-nodejs/?fbclid=IwAR06XW37jc2tuUlsg20XLDAw8t5v1dUR1bZKLjN1VKyRdklzeoCPlJlRBug)
+- [ ] [Monorepo? Yarn Workspace!](https://medium.com/@deptno/monorepo-yarn-workspace-e81e3e078100)
 
 **활용**
 
@@ -612,22 +596,5 @@ ___
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [React 인터뷰 질문 모음 번역](https://github.com/appear/reactjs-interview-questions-ko#is-it-good-to-use-setstate-in-componentwillmount-method)
 - [Vue 인터뷰 질문 모음 번역](https://github.com/sudheerj/vuejs-interview-questions-korean/blob/master/README.md?fbclid=IwAR3wfErVaLB9ftmhAKE10u1EFDltsNB5BiBQJcXPbW1joZI3H0GkJL4nMv4)
-
-## 
-
-## 밋업/세미나
-
-- [Festa](https://festa.io/)
-- [양재동 코드랩](https://www.codelabs.kr/codelabs/list)
-
-##  
-
-## Editor/IDE
-
-**Extensions**
-
-- [22 Best Visual Studio Code Extensions for Web Development](https://scotch.io/bar-talk/22-best-visual-studio-code-extensions-for-web-development)
-
-
 
 ### [⬆️ Table](#table)
